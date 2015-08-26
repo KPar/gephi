@@ -1,0 +1,2800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2015-08-04">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="count" title="count" type="double"></attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="hetoki.co.nz" label="hetoki.co.nz">
+        <attvalues>
+          <attvalue for="count" value="11.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1140.5977" y="-2003.1815" z="0.0"></viz:position>
+        <viz:color r="54" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.roomie.co.nz" label="www.roomie.co.nz">
+        <attvalues>
+          <attvalue for="count" value="13.0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1780.9414" y="375.94598" z="0.0"></viz:position>
+        <viz:color r="225" g="140" b="54"></viz:color>
+      </node>
+      <node id="fairfaxnie.co.nz" label="fairfaxnie.co.nz">
+        <attvalues>
+          <attvalue for="count" value="3.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="854.92993" y="-890.70844" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="54"></viz:color>
+      </node>
+      <node id="blacksheepcreative.co.nz" label="blacksheepcreative.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="577.5252" y="-1004.66736" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="54"></viz:color>
+      </node>
+      <node id="jameshardie.co.nz" label="jameshardie.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="669.4521" y="-1018.087" z="0.0"></viz:position>
+        <viz:color r="140" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.getthelingo.co.nz" label="www.getthelingo.co.nz">
+        <attvalues>
+          <attvalue for="count" value="8.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="828.9437" y="-947.68085" z="0.0"></viz:position>
+        <viz:color r="140" g="225" b="54"></viz:color>
+      </node>
+      <node id="zoomy.co.nz" label="zoomy.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="577.70764" y="-978.67523" z="0.0"></viz:position>
+        <viz:color r="140" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.pet.co.nz" label="www.pet.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="750.07776" y="-1079.4755" z="0.0"></viz:position>
+        <viz:color r="140" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.franciauys.co.nz" label="www.franciauys.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="691.30804" y="-1027.144" z="0.0"></viz:position>
+        <viz:color r="140" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.grabone.co.nz" label="www.grabone.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="706.6712" y="-1011.4198" z="0.0"></viz:position>
+        <viz:color r="140" g="225" b="54"></viz:color>
+      </node>
+      <node id="neighbourly.co.nz" label="neighbourly.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="714.66095" y="-1054.2906" z="0.0"></viz:position>
+        <viz:color r="140" g="225" b="54"></viz:color>
+      </node>
+      <node id="deaths.dompost.co.nz" label="deaths.dompost.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="741.06" y="-906.147" z="0.0"></viz:position>
+        <viz:color r="54" g="140" b="225"></viz:color>
+      </node>
+      <node id="deaths.stuff.co.nz" label="deaths.stuff.co.nz">
+        <attvalues>
+          <attvalue for="count" value="7.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="785.6258" y="-854.4658" z="0.0"></viz:position>
+        <viz:color r="54" g="140" b="225"></viz:color>
+      </node>
+      <node id="deaths.taranakidailynews.co.nz" label="deaths.taranakidailynews.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="732.76074" y="-762.45996" z="0.0"></viz:position>
+        <viz:color r="54" g="140" b="225"></viz:color>
+      </node>
+      <node id="deaths.waikatotimes.co.nz" label="deaths.waikatotimes.co.nz">
+        <attvalues>
+          <attvalue for="count" value="9.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="878.17444" y="-864.38007" z="0.0"></viz:position>
+        <viz:color r="54" g="140" b="225"></viz:color>
+      </node>
+      <node id="deaths.timaruherald.co.nz" label="deaths.timaruherald.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="788.7137" y="-713.16205" z="0.0"></viz:position>
+        <viz:color r="54" g="140" b="225"></viz:color>
+      </node>
+      <node id="deaths.southlandtimes.co.nz" label="deaths.southlandtimes.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="807.31323" y="-969.9568" z="0.0"></viz:position>
+        <viz:color r="54" g="140" b="225"></viz:color>
+      </node>
+      <node id="deaths.manawatustandard.co.nz" label="deaths.manawatustandard.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="896.6105" y="-910.4609" z="0.0"></viz:position>
+        <viz:color r="54" g="140" b="225"></viz:color>
+      </node>
+      <node id="deaths.press.co.nz" label="deaths.press.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="871.51263" y="-915.53644" z="0.0"></viz:position>
+        <viz:color r="54" g="140" b="225"></viz:color>
+      </node>
+      <node id="celebrations.waikatotimes.co.nz" label="celebrations.waikatotimes.co.nz">
+        <attvalues>
+          <attvalue for="count" value="6.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="868.51276" y="-765.51575" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="140"></viz:color>
+      </node>
+      <node id="celebrations.press.co.nz" label="celebrations.press.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="848.60144" y="-915.4509" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="140"></viz:color>
+      </node>
+      <node id="celebrations.manawatustandard.co.nz" label="celebrations.manawatustandard.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="772.61957" y="-914.3068" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="140"></viz:color>
+      </node>
+      <node id="celebrations.marlexpress.co.nz" label="celebrations.marlexpress.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="676.1516" y="-763.5295" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="140"></viz:color>
+      </node>
+      <node id="celebrations.stuff.co.nz" label="celebrations.stuff.co.nz">
+        <attvalues>
+          <attvalue for="count" value="4.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="747.6916" y="-817.27484" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="140"></viz:color>
+      </node>
+      <node id="celebrations.southlandtimes.co.nz" label="celebrations.southlandtimes.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="877.6016" y="-958.6122" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="140"></viz:color>
+      </node>
+      <node id="celebrations.dompost.co.nz" label="celebrations.dompost.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="725.0397" y="-825.44855" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="140"></viz:color>
+      </node>
+      <node id="celebrations.nelsonmail.co.nz" label="celebrations.nelsonmail.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="800.853" y="-738.42206" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="140"></viz:color>
+      </node>
+      <node id="celebrations.taranakidailynews.co.nz" label="celebrations.taranakidailynews.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="904.00037" y="-862.3853" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="140"></viz:color>
+      </node>
+      <node id="communitynewspapers.co.nz" label="communitynewspapers.co.nz">
+        <attvalues>
+          <attvalue for="count" value="26.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="749.7179" y="-865.2395" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.waikatotimesraywhite.co.nz" label="www.waikatotimesraywhite.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="647.4808" y="-1038.2461" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.waikatotimeslodge.co.nz" label="www.waikatotimeslodge.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="622.7013" y="-877.89233" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.waikatotimesharcourts.co.nz" label="www.waikatotimesharcourts.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="625.86365" y="-1001.592" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.waikatotimesbayleys.co.nz" label="www.waikatotimesbayleys.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="644.53564" y="-875.3413" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="225"></viz:color>
+      </node>
+      <node id="centralcanterburynews.fairfaxmedia.co.nz" label="centralcanterburynews.fairfaxmedia.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="567.4216" y="-910.53516" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.locationwaikato.co.nz" label="www.locationwaikato.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="568.68567" y="-953.5878" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="225"></viz:color>
+      </node>
+      <node id="waikatotimes.co.nz" label="waikatotimes.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="628.5057" y="-1048.7358" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="225"></viz:color>
+      </node>
+      <node id="wrcndigital.co.nz" label="wrcndigital.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="832.4557" y="-892.52734" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.motortimes.co.nz" label="www.motortimes.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="784.8169" y="-877.7038" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.waikatotimeslugtons.co.nz" label="www.waikatotimeslugtons.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="754.86365" y="-1025.4424" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.wrcndigital.co.nz" label="www.wrcndigital.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="733.41315" y="-1018.5775" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.admiremagazine.co.nz" label="www.admiremagazine.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="819.3086" y="-926.06036" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="225"></viz:color>
+      </node>
+      <node id="e-edition.cambridgeedition.co.nz" label="e-edition.cambridgeedition.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="575.61957" y="-845.047" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.essentialmums.co.nz" label="www.essentialmums.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="760.16473" y="-845.5332" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="225"></viz:color>
+      </node>
+      <node id="careers.fairfaxmedia.co.nz" label="careers.fairfaxmedia.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="773.18365" y="-983.73193" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="225"></viz:color>
+      </node>
+      <node id="www.newsworksnz.co.nz" label="www.newsworksnz.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="744.09674" y="-738.9031" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="225"></viz:color>
+      </node>
+      <node id="www.marketing.org.nz" label="www.marketing.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="834.6561" y="-997.2624" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="225"></viz:color>
+      </node>
+      <node id="file.stuff.co.nz" label="file.stuff.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="850.7679" y="-953.62933" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="225"></viz:color>
+      </node>
+      <node id="www.caanz.co.nz" label="www.caanz.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="720.90515" y="-807.20624" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="225"></viz:color>
+      </node>
+      <node id="www.mpa.org.nz" label="www.mpa.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="813.0752" y="-1002.87396" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="225"></viz:color>
+      </node>
+      <node id="advertise-on-stuff.co.nz" label="advertise-on-stuff.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="887.0471" y="-843.6236" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="225"></viz:color>
+      </node>
+      <node id="origin-interactives.stuff.co.nz" label="origin-interactives.stuff.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="854.08136" y="-790.07336" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="225"></viz:color>
+      </node>
+      <node id="www.anza.co.nz" label="www.anza.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="857.7063" y="-998.32837" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="225"></viz:color>
+      </node>
+      <node id="static.stuff.co.nz" label="static.stuff.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="905.5392" y="-887.4403" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="225"></viz:color>
+      </node>
+      <node id="essentialmums.co.nz" label="essentialmums.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="774.205" y="-1045.8075" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="225"></viz:color>
+      </node>
+      <node id="www.fairfaxmedia.co.nz" label="www.fairfaxmedia.co.nz">
+        <attvalues>
+          <attvalue for="count" value="426.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="810.3037" y="-805.1335" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="225"></viz:color>
+      </node>
+      <node id="www.iab.org.nz" label="www.iab.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="764.67566" y="-730.3077" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="225"></viz:color>
+      </node>
+      <node id="www.abc.org.nz" label="www.abc.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="955.176" y="-873.0731" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="225"></viz:color>
+      </node>
+      <node id="www.asa.co.nz" label="www.asa.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="758.6718" y="-968.17706" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="225"></viz:color>
+      </node>
+      <node id="mysubscription.co.nz" label="mysubscription.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="790.8448" y="-1009.139" z="0.0"></viz:position>
+        <viz:color r="54" g="225" b="225"></viz:color>
+      </node>
+      <node id="www.holidayhouses.co.nz" label="www.holidayhouses.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="807.87274" y="-871.81714" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="140"></viz:color>
+      </node>
+      <node id="www.treatme.co.nz" label="www.treatme.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="748.1612" y="-1002.50793" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="140"></viz:color>
+      </node>
+      <node id="www.travelbug.co.nz" label="www.travelbug.co.nz">
+        <attvalues>
+          <attvalue for="count" value="103.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="806.83014" y="-856.1491" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="140"></viz:color>
+      </node>
+      <node id="m.travelbug.co.nz" label="m.travelbug.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="733.0615" y="-1065.1293" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="140"></viz:color>
+      </node>
+      <node id="www.airbus.co.nz" label="www.airbus.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="776.3138" y="-930.22644" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="140"></viz:color>
+      </node>
+      <node id="www.trademe.co.nz" label="www.trademe.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="799.7254" y="-821.9967" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="140"></viz:color>
+      </node>
+      <node id="www.findsomeone.co.nz" label="www.findsomeone.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="823.2839" y="-819.6265" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="140"></viz:color>
+      </node>
+      <node id="www.sitehost.co.nz" label="www.sitehost.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="722.4906" y="-696.3911" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="140"></viz:color>
+      </node>
+      <node id="bookings.dev.bookit.co.nz" label="bookings.dev.bookit.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="689.5626" y="-729.7129" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="140"></viz:color>
+      </node>
+      <node id="business.bookit.co.nz" label="business.bookit.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="815.29645" y="-1063.5573" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="140"></viz:color>
+      </node>
+      <node id="www.interislander.co.nz" label="www.interislander.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="710.9059" y="-940.86914" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="140"></viz:color>
+      </node>
+      <node id="worldwide.travelbug.co.nz" label="worldwide.travelbug.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="878.06635" y="-885.19434" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="140"></viz:color>
+      </node>
+      <node id="bookings.bookit.co.nz" label="bookings.bookit.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="718.03644" y="-734.88153" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="140"></viz:color>
+      </node>
+      <node id="www.motorweb.co.nz" label="www.motorweb.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="845.8083" y="-863.4766" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="140"></viz:color>
+      </node>
+      <node id="blog.travelbug.co.nz" label="blog.travelbug.co.nz">
+        <attvalues>
+          <attvalue for="count" value="116.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="854.4556" y="-820.9454" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="140"></viz:color>
+      </node>
+      <node id="www.lifedirect.co.nz" label="www.lifedirect.co.nz">
+        <attvalues>
+          <attvalue for="count" value="78.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="862.6137" y="-845.2489" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="140"></viz:color>
+      </node>
+      <node id="my.lifedirect.co.nz" label="my.lifedirect.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="914.6104" y="-844.4795" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="140"></viz:color>
+      </node>
+      <node id="trademe.co.nz" label="trademe.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="898.8909" y="-820.705" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="140"></viz:color>
+      </node>
+      <node id="events.stuff.co.nz" label="events.stuff.co.nz">
+        <attvalues>
+          <attvalue for="count" value="3.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="741.9683" y="-793.63556" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="www.eventfinda.co.nz" label="www.eventfinda.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="794.45624" y="-920.6401" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="www.fairfaxnz.co.nz" label="www.fairfaxnz.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="718.05286" y="-855.1846" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="www.nzlifeandleisure.co.nz" label="www.nzlifeandleisure.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="800.45" y="-837.7488" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="www.azdirect.co.nz" label="www.azdirect.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="818.5664" y="-788.88763" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="www.cuisine.co.nz" label="www.cuisine.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="815.2174" y="-835.5744" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="m.stuff.co.nz" label="m.stuff.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="773.6762" y="-804.0283" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="www.nzgardener.co.nz" label="www.nzgardener.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="788.69183" y="-804.98" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="fairfaxmedia.co.nz" label="fairfaxmedia.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="776.9995" y="-810.8525" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="www.digithink.co.nz" label="www.digithink.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="810.2499" y="-1035.0419" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="www.mags4gifts.co.nz" label="www.mags4gifts.co.nz">
+        <attvalues>
+          <attvalue for="count" value="7.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="790.64386" y="-778.4085" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="www.adstuff.co.nz" label="www.adstuff.co.nz">
+        <attvalues>
+          <attvalue for="count" value="18.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="779.34814" y="-783.62555" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="pro.eventfinda.co.nz" label="pro.eventfinda.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="659.2056" y="-832.4417" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="www.nzfishingnews.co.nz" label="www.nzfishingnews.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="785.251" y="-808.5886" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="www.tvguide.co.nz" label="www.tvguide.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="794.7232" y="-1053.6565" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="www.fairfaxnie.co.nz" label="www.fairfaxnie.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="765.0693" y="-844.315" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="www.rugbyheaven.co.nz" label="www.rugbyheaven.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="829.9585" y="-1021.28864" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="www.nzhouseandgarden.co.nz" label="www.nzhouseandgarden.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="799.5495" y="-812.3822" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="www.oldfriends.co.nz" label="www.oldfriends.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="648.1003" y="-1010.1298" z="0.0"></viz:position>
+        <viz:color r="225" g="54" b="54"></viz:color>
+      </node>
+      <node id="engage.ubiquity.co.nz" label="engage.ubiquity.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="761.1866" y="-891.61005" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="fishpond.co.nz" label="fishpond.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="518.3983" y="-873.43036" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="sparkmypotential.co.nz" label="sparkmypotential.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="713.7968" y="-1032.5704" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.westpac.co.nz" label="www.westpac.co.nz">
+        <attvalues>
+          <attvalue for="count" value="94.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="748.71735" y="-944.9136" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.morefm.co.nz" label="www.morefm.co.nz">
+        <attvalues>
+          <attvalue for="count" value="10.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="674.9086" y="-813.7313" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="my.stuff.co.nz" label="my.stuff.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="830.9921" y="-734.76227" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="burrowandbe.co.nz" label="burrowandbe.co.nz">
+        <attvalues>
+          <attvalue for="count" value="2.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="817.55536" y="-709.3512" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.mediaworks.co.nz" label="www.mediaworks.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="629.1338" y="-808.92755" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.extramilerunners.co.nz" label="www.extramilerunners.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="706.5556" y="-838.4643" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="roomie.co.nz" label="roomie.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="726.5842" y="-925.1608" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.fishpond.co.nz" label="www.fishpond.co.nz">
+        <attvalues>
+          <attvalue for="count" value="67.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="687.47437" y="-887.086" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="i.stuff.co.nz" label="i.stuff.co.nz">
+        <attvalues>
+          <attvalue for="count" value="270.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="829.3034" y="-840.0939" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.presscouncil.org.nz" label="www.presscouncil.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="742.47845" y="-711.3646" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="stuff.co.nz" label="stuff.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="760.56384" y="-815.849" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="sparkfoundation.org.nz" label="sparkfoundation.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="785.2014" y="-690.9805" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="givealittle.co.nz" label="givealittle.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="812.0791" y="-903.82855" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="albatross.org.nz" label="albatross.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="665.4461" y="-885.2356" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="fohfum.co.nz" label="fohfum.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="711.01044" y="-768.0606" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.shopify.co.nz" label="www.shopify.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="767.44196" y="-705.5233" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.fueldesign.co.nz" label="www.fueldesign.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="740.5981" y="-684.2276" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.hetoki.co.nz" label="www.hetoki.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="783.3118" y="-969.66003" z="0.0"></viz:position>
+        <viz:color r="140" g="54" b="225"></viz:color>
+      </node>
+      <node id="www.noelleeming.co.nz" label="www.noelleeming.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="976.71436" y="-763.8892" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.sbsstjamesgore.co.nz" label="www.sbsstjamesgore.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="877.35406" y="-1023.42786" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="quantum.otago.ac.nz" label="quantum.otago.ac.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="657.76733" y="-967.2603" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.weatherzone.co.nz" label="www.weatherzone.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="614.11224" y="-953.3223" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.meccacosmetica.co.nz" label="www.meccacosmetica.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="828.8694" y="-975.70135" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.foundbear.co.nz" label="www.foundbear.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="685.36646" y="-1001.96405" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.dlapiper.co.nz" label="www.dlapiper.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="698.5161" y="-820.43915" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.govt.nz" label="www.govt.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="687.08563" y="-909.27106" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="livenews.co.nz" label="livenews.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="582.08844" y="-926.77795" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.hotelwellington.co.nz" label="www.hotelwellington.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="600.90967" y="-879.15814" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.stats.govt.nz" label="www.stats.govt.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="726.1652" y="-997.3477" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.heritagehotels.co.nz" label="www.heritagehotels.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="757.3637" y="-925.56714" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="dompost.mypaper.co.nz" label="dompost.mypaper.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="736.60376" y="-868.5872" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.preview.stuff.co.nz" label="www.preview.stuff.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="680.1126" y="-838.48157" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="technology.fairfaxmedia.co.nz" label="technology.fairfaxmedia.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="598.081" y="-969.52356" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.ccc.govt.nz" label="www.ccc.govt.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="578.4342" y="-869.5734" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.wwoof.co.nz" label="www.wwoof.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="698.7984" y="-985.55475" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.livenation.co.nz" label="www.livenation.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="829.1849" y="-684.4248" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.chiefandco.co.nz" label="www.chiefandco.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="733.8621" y="-1040.1168" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="at.govt.nz" label="at.govt.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="980.2538" y="-845.4172" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.oasisbeauty.co.nz" label="www.oasisbeauty.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="699.9524" y="-963.458" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.kikitangeo.co.nz" label="www.kikitangeo.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="627.18427" y="-777.9916" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="dompost.co.nz" label="dompost.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="651.10785" y="-944.21185" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.alzheimers.org.nz" label="www.alzheimers.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="667.5352" y="-791.1666" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.radionz.co.nz" label="www.radionz.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="604.16925" y="-811.2064" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="myob.co.nz" label="myob.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="707.1046" y="-919.7532" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.lifeline.org.nz" label="www.lifeline.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="769.9938" y="-1009.4551" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="surf.co.nz" label="surf.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="675.0345" y="-952.89764" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.eventfinder.co.nz" label="www.eventfinder.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="729.1853" y="-888.7313" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.cbon.co.nz" label="www.cbon.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="605.22" y="-929.88214" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.capitale.org.nz" label="www.capitale.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="645.4405" y="-792.118" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.flightcentre.co.nz" label="www.flightcentre.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="645.0989" y="-923.73755" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.ero.govt.nz" label="www.ero.govt.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="622.26276" y="-855.5279" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="cdn.auckland.ac.nz" label="cdn.auckland.ac.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="740.9575" y="-981.40375" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.interactives.co.nz" label="www.interactives.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="840.2303" y="-764.85297" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.my.stuff.co.nz" label="www.my.stuff.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="685.3621" y="-864.3666" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.getmags.co.nz" label="www.getmags.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="865.9032" y="-937.0669" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="herbalhealthwaiheke.co.nz" label="herbalhealthwaiheke.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="668.11755" y="-927.3928" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.scoop.co.nz" label="www.scoop.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="599.8538" y="-995.2465" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="yha.co.nz" label="yha.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="641.0172" y="-985.1627" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="privacy.org.nz" label="privacy.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="656.97076" y="-1057.607" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.myfoodbag.co.nz" label="www.myfoodbag.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="665.19763" y="-991.21954" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="nzherald.co.nz" label="nzherald.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="710.2669" y="-871.82043" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="ticketmaster.co.nz" label="ticketmaster.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="752.60425" y="-1050.0457" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.vodafone.co.nz" label="www.vodafone.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="610.07745" y="-1015.62805" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.depression.org.nz" label="www.depression.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="772.9543" y="-1069.2001" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.stuff.co.nz" label="www.stuff.co.nz">
+        <attvalues>
+          <attvalue for="count" value="40420.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="789.46857" y="-820.31696" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.neighbourly.co.nz" label="www.neighbourly.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="794.14624" y="-991.2448" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.tellingitasitis.co.nz" label="www.tellingitasitis.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="658.0775" y="-741.8451" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.hotpoints.co.nz" label="www.hotpoints.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="687.8256" y="-781.1196" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.skycityauckland.co.nz" label="www.skycityauckland.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="800.7588" y="-941.0508" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="myfoodbag.co.nz" label="myfoodbag.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="674.2809" y="-1070.2996" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.offthetracks.co.nz" label="www.offthetracks.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="791.1001" y="-894.5262" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.taupodc.govt.nz" label="www.taupodc.govt.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="698.8999" y="-795.4265" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.airshare.co.nz" label="www.airshare.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="622.2739" y="-914.7443" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.nziff.co.nz" label="www.nziff.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="894.53033" y="-933.06256" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.speedshow.co.nz" label="www.speedshow.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="850.95917" y="-976.8503" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="pricespy.co.nz" label="pricespy.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="788.6992" y="-1034.1345" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="taupohalfmarathon.org.nz" label="taupohalfmarathon.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="644.09845" y="-850.36487" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.airnewzealand.co.nz" label="www.airnewzealand.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="845.44104" y="-934.2914" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.airtahitinui.co.nz" label="www.airtahitinui.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="637.7626" y="-829.9492" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="becomeastar.co.nz" label="becomeastar.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="630.8813" y="-1023.78265" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="nzcms.fairfaxmedia.co.nz" label="nzcms.fairfaxmedia.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="720.1225" y="-976.7964" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.nzfarmer.co.nz" label="www.nzfarmer.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="673.57355" y="-1040.9794" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.arts.canterbury.ac.nz" label="www.arts.canterbury.ac.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="834.4424" y="-1045.8575" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.nzavocado.co.nz" label="www.nzavocado.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="653.4027" y="-904.2923" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.childrensday.org.nz" label="www.childrensday.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="629.8311" y="-938.5944" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.bhu.org.nz" label="www.bhu.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="763.5347" y="-683.5775" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.kitchen-maid.blogspot.co.nz" label="www.kitchen-maid.blogspot.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="706.73083" y="-1076.2129" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="celebrations.timaruherald.co.nz" label="celebrations.timaruherald.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="727.8289" y="-953.3797" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.throng.co.nz" label="www.throng.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="995.4296" y="-924.73285" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="juliebhosale.co.nz" label="juliebhosale.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="650.9024" y="-812.93915" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.farmers.co.nz" label="www.farmers.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="706.08875" y="-894.14056" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.theorb.org.nz" label="www.theorb.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="862.13477" y="-1042.9484" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="deaths.marlexpress.co.nz" label="deaths.marlexpress.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="689.67096" y="-937.8442" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.nzbcf.org.nz" label="www.nzbcf.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="636.69055" y="-959.6444" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.robinmorrison.co.nz" label="www.robinmorrison.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="679.7829" y="-976.19714" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="neighboursday.org.nz" label="neighboursday.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="633.3524" y="-896.7598" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="mags4gifts.co.nz" label="mags4gifts.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="618.6146" y="-975.9766" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.streetandcityphotos.blogspot.co.nz" label="www.streetandcityphotos.blogspot.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="649.8947" y="-767.8258" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.glaciersouthernlakes.co.nz" label="www.glaciersouthernlakes.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="690.97766" y="-1054.2332" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.nzta.govt.nz" label="www.nzta.govt.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="616.6004" y="-828.919" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="cuisine.co.nz" label="cuisine.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="664.3114" y="-861.0611" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="deaths.nelsonmail.co.nz" label="deaths.nelsonmail.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="747.3625" y="-841.41034" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.internationalartcentre.co.nz" label="www.internationalartcentre.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="582.2964" y="-893.2395" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.adventureworld.co.nz" label="www.adventureworld.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="600.0353" y="-906.8041" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.archivestuff.co.nz" label="www.archivestuff.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="589.917" y="-947.85565" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="hawaiianairlines.co.nz" label="hawaiianairlines.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="708.93274" y="-713.8825" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.littlethings.co.nz" label="www.littlethings.co.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="696.07025" y="-751.9587" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+      <node id="www.seafoodnewzealand.org.nz" label="www.seafoodnewzealand.org.nz">
+        <attvalues>
+          <attvalue for="count" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="599.65625" y="-844.5205" z="0.0"></viz:position>
+        <viz:color r="225" g="225" b="54"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="fairfaxnie.co.nz" target="blacksheepcreative.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="fairfaxnie.co.nz" target="www.stuff.co.nz" weight="9.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.getthelingo.co.nz" target="jameshardie.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.getthelingo.co.nz" target="zoomy.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.getthelingo.co.nz" target="www.pet.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.getthelingo.co.nz" target="www.franciauys.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.getthelingo.co.nz" target="www.grabone.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.getthelingo.co.nz" target="neighbourly.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="deaths.stuff.co.nz" target="deaths.dompost.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="deaths.stuff.co.nz" target="deaths.taranakidailynews.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="deaths.stuff.co.nz" target="deaths.waikatotimes.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="deaths.stuff.co.nz" target="deaths.timaruherald.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="deaths.stuff.co.nz" target="deaths.southlandtimes.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="deaths.stuff.co.nz" target="deaths.manawatustandard.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="deaths.stuff.co.nz" target="deaths.press.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="celebrations.stuff.co.nz" target="celebrations.waikatotimes.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="celebrations.stuff.co.nz" target="celebrations.press.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="celebrations.stuff.co.nz" target="celebrations.manawatustandard.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="celebrations.stuff.co.nz" target="celebrations.marlexpress.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="celebrations.stuff.co.nz" target="celebrations.southlandtimes.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="celebrations.stuff.co.nz" target="celebrations.dompost.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="celebrations.stuff.co.nz" target="celebrations.nelsonmail.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="celebrations.stuff.co.nz" target="celebrations.taranakidailynews.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="communitynewspapers.co.nz" target="www.waikatotimesbayleys.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="communitynewspapers.co.nz" target="centralcanterburynews.fairfaxmedia.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="communitynewspapers.co.nz" target="www.stuff.co.nz" weight="11.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="communitynewspapers.co.nz" target="www.fairfaxmedia.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="communitynewspapers.co.nz" target="www.admiremagazine.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="communitynewspapers.co.nz" target="e-edition.cambridgeedition.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="wrcndigital.co.nz" target="www.waikatotimesraywhite.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="wrcndigital.co.nz" target="www.waikatotimeslodge.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="wrcndigital.co.nz" target="www.waikatotimesharcourts.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="wrcndigital.co.nz" target="www.locationwaikato.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="wrcndigital.co.nz" target="www.waikatotimeslugtons.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="wrcndigital.co.nz" target="www.wrcndigital.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.motortimes.co.nz" target="communitynewspapers.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.motortimes.co.nz" target="waikatotimes.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.motortimes.co.nz" target="wrcndigital.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advertise-on-stuff.co.nz" target="file.stuff.co.nz" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advertise-on-stuff.co.nz" target="static.stuff.co.nz" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advertise-on-stuff.co.nz" target="www.stuff.co.nz" weight="12.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advertise-on-stuff.co.nz" target="www.fairfaxmedia.co.nz" weight="9.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="origin-interactives.stuff.co.nz" target="www.stuff.co.nz" weight="24.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="origin-interactives.stuff.co.nz" target="i.stuff.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="origin-interactives.stuff.co.nz" target="www.fairfaxmedia.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.fairfaxmedia.co.nz" target="www.essentialmums.co.nz" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.fairfaxmedia.co.nz" target="careers.fairfaxmedia.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.fairfaxmedia.co.nz" target="www.newsworksnz.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.fairfaxmedia.co.nz" target="www.marketing.org.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.fairfaxmedia.co.nz" target="www.caanz.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.fairfaxmedia.co.nz" target="www.mpa.org.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.fairfaxmedia.co.nz" target="www.anza.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.fairfaxmedia.co.nz" target="essentialmums.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.fairfaxmedia.co.nz" target="www.stuff.co.nz" weight="13.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.fairfaxmedia.co.nz" target="stuff.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.fairfaxmedia.co.nz" target="www.mags4gifts.co.nz" weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.fairfaxmedia.co.nz" target="www.iab.org.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.fairfaxmedia.co.nz" target="www.abc.org.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.fairfaxmedia.co.nz" target="www.asa.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.fairfaxmedia.co.nz" target="mysubscription.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.travelbug.co.nz" target="www.holidayhouses.co.nz" weight="102.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.travelbug.co.nz" target="www.treatme.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.travelbug.co.nz" target="m.travelbug.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.travelbug.co.nz" target="www.airbus.co.nz" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.travelbug.co.nz" target="www.trademe.co.nz" weight="105.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.travelbug.co.nz" target="www.findsomeone.co.nz" weight="102.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.travelbug.co.nz" target="bookings.dev.bookit.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.travelbug.co.nz" target="business.bookit.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.travelbug.co.nz" target="www.stuff.co.nz" weight="102.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.travelbug.co.nz" target="www.interislander.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.travelbug.co.nz" target="worldwide.travelbug.co.nz" weight="39.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.travelbug.co.nz" target="bookings.bookit.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.travelbug.co.nz" target="www.motorweb.co.nz" weight="102.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.travelbug.co.nz" target="blog.travelbug.co.nz" weight="102.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.travelbug.co.nz" target="www.lifedirect.co.nz" weight="102.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.motorweb.co.nz" target="www.holidayhouses.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.motorweb.co.nz" target="www.travelbug.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.motorweb.co.nz" target="www.trademe.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.motorweb.co.nz" target="www.findsomeone.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.motorweb.co.nz" target="www.stuff.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.motorweb.co.nz" target="www.lifedirect.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="blog.travelbug.co.nz" target="www.holidayhouses.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="blog.travelbug.co.nz" target="www.travelbug.co.nz" weight="75.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="blog.travelbug.co.nz" target="www.trademe.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="blog.travelbug.co.nz" target="www.findsomeone.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="blog.travelbug.co.nz" target="www.stuff.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="blog.travelbug.co.nz" target="www.motorweb.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="blog.travelbug.co.nz" target="www.lifedirect.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.lifedirect.co.nz" target="www.holidayhouses.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.lifedirect.co.nz" target="www.travelbug.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.lifedirect.co.nz" target="www.trademe.co.nz" weight="36.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.lifedirect.co.nz" target="www.findsomeone.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.lifedirect.co.nz" target="www.sitehost.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.lifedirect.co.nz" target="www.stuff.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.lifedirect.co.nz" target="www.motorweb.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.lifedirect.co.nz" target="my.lifedirect.co.nz" weight="35.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.lifedirect.co.nz" target="trademe.co.nz" weight="40.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="www.essentialmums.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="deaths.stuff.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="www.travelbug.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="www.eventfinda.co.nz" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="www.nzlifeandleisure.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="www.azdirect.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="www.cuisine.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="www.trademe.co.nz" weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="www.findsomeone.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="m.stuff.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="www.nzgardener.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="celebrations.stuff.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="fairfaxmedia.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="www.stuff.co.nz" weight="221.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="i.stuff.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="www.mags4gifts.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="www.adstuff.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="www.fairfaxmedia.co.nz" weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="pro.eventfinda.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="www.nzfishingnews.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="www.fairfaxnie.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="events.stuff.co.nz" target="www.nzhouseandgarden.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.azdirect.co.nz" target="www.stuff.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.azdirect.co.nz" target="www.digithink.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.mags4gifts.co.nz" target="www.nzlifeandleisure.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.mags4gifts.co.nz" target="static.stuff.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.mags4gifts.co.nz" target="www.stuff.co.nz" weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.mags4gifts.co.nz" target="www.tvguide.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.adstuff.co.nz" target="www.travelbug.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.adstuff.co.nz" target="www.fairfaxnz.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.adstuff.co.nz" target="www.trademe.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.adstuff.co.nz" target="www.findsomeone.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.adstuff.co.nz" target="www.stuff.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.adstuff.co.nz" target="www.rugbyheaven.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.adstuff.co.nz" target="www.oldfriends.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.westpac.co.nz" target="engage.ubiquity.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.morefm.co.nz" target="www.mediaworks.co.nz" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="burrowandbe.co.nz" target="www.shopify.co.nz" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.fishpond.co.nz" target="fishpond.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="i.stuff.co.nz" target="www.getthelingo.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="i.stuff.co.nz" target="www.westpac.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="i.stuff.co.nz" target="www.morefm.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="i.stuff.co.nz" target="my.stuff.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="i.stuff.co.nz" target="burrowandbe.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="i.stuff.co.nz" target="www.extramilerunners.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="i.stuff.co.nz" target="roomie.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="i.stuff.co.nz" target="www.stuff.co.nz" weight="213.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="i.stuff.co.nz" target="www.fishpond.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="i.stuff.co.nz" target="www.presscouncil.org.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="i.stuff.co.nz" target="stuff.co.nz" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="i.stuff.co.nz" target="givealittle.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="i.stuff.co.nz" target="albatross.org.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="i.stuff.co.nz" target="fohfum.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="i.stuff.co.nz" target="www.mags4gifts.co.nz" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="i.stuff.co.nz" target="www.hetoki.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.presscouncil.org.nz" target="www.fueldesign.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="givealittle.co.nz" target="sparkmypotential.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="givealittle.co.nz" target="sparkfoundation.org.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.interactives.co.nz" target="www.stuff.co.nz" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="deaths.dompost.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="communitynewspapers.co.nz" weight="15.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.essentialmums.co.nz" weight="2435.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="engage.ubiquity.co.nz" weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.noelleeming.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.sbsstjamesgore.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="quantum.otago.ac.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.weatherzone.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.meccacosmetica.co.nz" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.foundbear.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="deaths.stuff.co.nz" weight="2435.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.dlapiper.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.govt.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="livenews.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.hotelwellington.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="celebrations.waikatotimes.co.nz" weight="20.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="fairfaxnie.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.holidayhouses.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.stats.govt.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.heritagehotels.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="dompost.mypaper.co.nz" weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.preview.stuff.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="file.stuff.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="technology.fairfaxmedia.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.ccc.govt.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.wwoof.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="celebrations.press.co.nz" weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.livenation.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.chiefandco.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.getthelingo.co.nz" weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="events.stuff.co.nz" weight="200.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="at.govt.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.travelbug.co.nz" weight="2438.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.oasisbeauty.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.kikitangeo.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="celebrations.manawatustandard.co.nz" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="dompost.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.westpac.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="deaths.taranakidailynews.co.nz" weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.alzheimers.org.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.fairfaxnz.co.nz" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.morefm.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.nzlifeandleisure.co.nz" weight="2437.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="my.stuff.co.nz" weight="25.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.azdirect.co.nz" weight="2437.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.radionz.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.cuisine.co.nz" weight="2437.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="burrowandbe.co.nz" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="myob.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="origin-interactives.stuff.co.nz" weight="37.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.lifeline.org.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="static.stuff.co.nz" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="surf.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.extramilerunners.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.eventfinder.co.nz" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.cbon.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="roomie.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.trademe.co.nz" weight="9750.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.capitale.org.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="deaths.waikatotimes.co.nz" weight="20.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.flightcentre.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.ero.govt.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.findsomeone.co.nz" weight="2438.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="cdn.auckland.ac.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.interactives.co.nz" weight="76.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.my.stuff.co.nz" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.getmags.co.nz" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="celebrations.marlexpress.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="m.stuff.co.nz" weight="1865.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="herbalhealthwaiheke.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.scoop.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="yha.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="privacy.org.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.nzgardener.co.nz" weight="2437.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.myfoodbag.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="nzherald.co.nz" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="celebrations.stuff.co.nz" weight="2434.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="ticketmaster.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.vodafone.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.depression.org.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="fairfaxmedia.co.nz" weight="1865.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.neighbourly.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.fishpond.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="celebrations.southlandtimes.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="wrcndigital.co.nz" weight="43.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="deaths.timaruherald.co.nz" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.tellingitasitis.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.hotpoints.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.skycityauckland.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="myfoodbag.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.motortimes.co.nz" weight="16.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.offthetracks.co.nz" weight="57.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="i.stuff.co.nz" weight="2436.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.presscouncil.org.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.taupodc.govt.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.airshare.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="celebrations.dompost.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.nziff.co.nz" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.speedshow.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="pricespy.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="stuff.co.nz" weight="1888.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="taupohalfmarathon.org.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.airnewzealand.co.nz" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.airtahitinui.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="celebrations.nelsonmail.co.nz" weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="givealittle.co.nz" weight="14.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="albatross.org.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="becomeastar.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="nzcms.fairfaxmedia.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.nzfarmer.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.arts.canterbury.ac.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.nzavocado.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.childrensday.org.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="fohfum.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.bhu.org.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="deaths.southlandtimes.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.mags4gifts.co.nz" weight="2471.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.kitchen-maid.blogspot.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.adstuff.co.nz" weight="2437.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="celebrations.timaruherald.co.nz" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.fairfaxmedia.co.nz" weight="7884.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.throng.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.nzfishingnews.co.nz" weight="2437.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="juliebhosale.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.farmers.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="celebrations.taranakidailynews.co.nz" weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.theorb.org.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="deaths.marlexpress.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.nzbcf.org.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.robinmorrison.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="neighboursday.org.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="deaths.manawatustandard.co.nz" weight="5.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.lifedirect.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="mags4gifts.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.streetandcityphotos.blogspot.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.fairfaxnie.co.nz" weight="2437.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.glaciersouthernlakes.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.nzta.govt.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="cuisine.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="deaths.nelsonmail.co.nz" weight="8.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.hetoki.co.nz" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.admiremagazine.co.nz" weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.internationalartcentre.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.nzhouseandgarden.co.nz" weight="2437.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.adventureworld.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.archivestuff.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="hawaiianairlines.co.nz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="deaths.press.co.nz" weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.littlethings.co.nz" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="www.stuff.co.nz" target="www.seafoodnewzealand.org.nz">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

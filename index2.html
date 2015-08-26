@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        #policecontainer, #stuffcontainer, #fairfaxcontainer {
+            max-width: 1000px;
+            height: 600px;
+            margin: auto;
+            background-color: #eee;
+        }
+
+        .contextmenu {
+            display: none;
+            z-index: 1000;
+            position: absolute;
+            overflow: hidden;
+            border: 1px solid #CCC;
+            white-space: nowrap;
+            font-family: sans-serif;
+            background: #FFF;
+            color: #333;
+            border-radius: 5px;
+        }
+
+        .contextmenu li {
+            padding: 8px 12px;
+            cursor: pointer;
+        }
+
+        .contextmenu li:hover {
+            background-color: #DEF;
+        }
+    </style>
+</head>
+<body>
+
+<select id="selector">
+    <option value="policecontainer">Police</option>
+    <option value="stuffcontainer">Stuff</option>
+    <option value="fairfaxcontainer">Fairfax</option>
+</select>
+
+<script src="plugins/sigma.min.js"></script>
+<script src="plugins/sigma.parsers.json.min.js"></script>
+<script src="js/jquery-1.11.3.min.js"></script>
+<ul class="contextmenu">
+    <li data-action="words">See Top Words</li>
+    <li data-action="visit">Visit Website</li>
+</ul>
+<script>
+
+
+    sigma.classes.graph.addMethod('neighbors', function (nodeId) {
+
+        var k,
+                neighbors = {},
+                index = this.allNeighborsIndex[nodeId] || {};
+
+        for (k in index)
+            neighbors[k] = this.nodesIndex[k];
+
+        return neighbors;
+    });
+
+    sigma.parsers.json('plugins/police_stripped.json', {
+        container: 'policecontainer',
+        settings: {
+            defaultNodeColor: '#ec5148',
+            maxNodeSize: 20,
+            drawEdges: false,
+            labelSize: 'proportional'
+        }
+    },
+            function (s) {
+                // This function will be executed when the
+                // graph is displayed, with "s" the related
+                s.graph.nodes().forEach(function (n) {
+                    n.originalColor = n.color;
+                });
+                s.graph.edges().forEach(function (e) {
+                    e.originalColor = e.color;
+                });
+
+
+                // When a node is clicked, we check for each node
+                // if it is a neighbor of the clicked one. If not,
+                // we set its color as grey, and else, it takes its
+                // original color.
+                // We do the same for the edges, and we only keep
+                // edges that have both extremities colored.
+
+                s.bind('clickNode', function (e) {
+
+                    var nodeId = e.data.node.id,
+                            toKeep = s.graph.neighbors(nodeId);
+                    toKeep[nodeId] = e.data.node;
+
+
+
+                    s.graph.nodes().forEach(function (n) {
+                        if (toKeep[n.id])
+                            n.color = n.originalColor;
+                        else
+                            n.color = '#eee';
+                    });
+
+                    s.graph.edges().forEach(function (e) {
+                        if (toKeep[e.source] && toKeep[e.target])
+                            e.color = e.originalColor;
+                        else
+                            e.color = '#eee';
+                    });
+                    // Since the data has been modified, we need to
+                    // call the refresh method to make the colors
+                    // update effective.
+                    s.refresh();
+                });
+
+                // When the stage is clicked, we just color each
+                // node and edge with its original color.
+                s.bind('clickStage', function (e) {
+                    s.graph.nodes().forEach(function (n) {
+                        n.color = n.originalColor;
+                    });
+
+                    s.graph.edges().forEach(function (e) {
+                        e.color = e.originalColor;
+                    });
+
+                    // Same as in the previous event:
+                    s.refresh();
+                });
+            }
+    );
+
+    sigma.parsers.json('plugins/stuff3.json', {
+                container: 'stuffcontainer',
+                settings: {
+                    defaultNodeColor: '#ec5148',
+                    maxNodeSize: 20,
+                    drawEdges: false,
+                    labelSize: 'proportional'
+                }
+            },
+
+
+            function (s) {
+                // This function will be executed when the
+                // graph is displayed, with "s" the related
+                s.graph.nodes().forEach(function (n) {
+                    n.originalColor = n.color;
+                });
+                s.graph.edges().forEach(function (e) {
+                    e.originalColor = e.color;
+                });
+
+
+                // When a node is clicked, we check for each node
+                // if it is a neighbor of the clicked one. If not,
+                // we set its color as grey, and else, it takes its
+                // original color.
+                // We do the same for the edges, and we only keep
+                // edges that have both extremities colored.
+                s.bind('clickNode', function (e) {
+                    alert(e.data.node.words);
+                    var nodeId = e.data.node.id,
+                            toKeep = s.graph.neighbors(nodeId);
+                    toKeep[nodeId] = e.data.node;
+
+
+
+                    s.graph.nodes().forEach(function (n) {
+                        if (toKeep[n.id])
+                            n.color = n.originalColor;
+                        else
+                            n.color = '#eee';
+                    });
+
+                    s.graph.edges().forEach(function (e) {
+                        if (toKeep[e.source] && toKeep[e.target])
+                            e.color = e.originalColor;
+                        else
+                            e.color = '#eee';
+                    });
+
+
+                    // Since the data has been modified, we need to
+                    // call the refresh method to make the colors
+                    // update effective.
+                    s.refresh();
+                });
+                s.bind('rightClickNode', function (e){
+                    $(document).bind("contextmenu", function (event){
+                        event.preventDefault();
+                        $(".contextmenu").finish().toggle(50)
+                                css({
+                                    down: event.pageX +"px",
+                                    right: event.pageY + "px"
+                                });
+                    });
+
+                    $(document).bind("mousedown",function(e){
+                        if(!$(e.target)().parents(".contextmenu").length >0){
+                            $(".contextmenu").hide(100);
+                        }
+                    });
+
+                    $(".contextmenu li").click(function(){
+                        var url = e.data.node.id;
+                        switch ($(this).attr("data-action")){
+                            case "words":alert("Show top 10 words");
+                                break;
+                            case "visit": window.location.href='http://' + url, '_blank';
+                                break;
+                        }
+                        $(".contextmenu").hide(100);
+                    });
+
+                });
+
+                // When the stage is clicked, we just color each
+                // node and edge with its original color.
+                s.bind('clickStage', function (e) {
+                    s.graph.nodes().forEach(function (n) {
+                        n.color = n.originalColor;
+                    });
+
+                    s.graph.edges().forEach(function (e) {
+                        e.color = e.originalColor;
+                    });
+
+                    // Same as in the previous event:
+                    s.refresh();
+                });
+
+                s.bind('rightClickStage', function (e) {
+                    alert("Hello World");
+                    s.graph.nodes().forEach(function (n) {
+                        n.color = n.originalColor;
+                    });
+
+                    s.graph.edges().forEach(function (e) {
+                        e.color = e.originalColor;
+                    });
+
+                    // Same as in the previous event:
+                    s.refresh();
+                });
+            }
+    );
+
+    sigma.parsers.json('plugins/fairfax.json', {
+                container: 'fairfaxcontainer',
+                settings: {
+                    defaultNodeColor: '#ec5148',
+                    maxNodeSize: 20,
+                    drawEdges: false,
+                    labelSize: 'proportional'
+                }
+            },
+
+
+            function (s) {
+                // This function will be executed when the
+                // graph is displayed, with "s" the related
+                s.graph.nodes().forEach(function (n) {
+                    n.originalColor = n.color;
+                });
+                s.graph.edges().forEach(function (e) {
+                    e.originalColor = e.color;
+                });
+
+
+                // When a node is clicked, we check for each node
+                // if it is a neighbor of the clicked one. If not,
+                // we set its color as grey, and else, it takes its
+                // original color.
+                // We do the same for the edges, and we only keep
+                // edges that have both extremities colored.
+                s.bind('clickNode', function (e) {
+                    alert(e.data.node.words);
+                    var nodeId = e.data.node.id,
+                            toKeep = s.graph.neighbors(nodeId);
+                    toKeep[nodeId] = e.data.node;
+
+
+
+                    s.graph.nodes().forEach(function (n) {
+                        if (toKeep[n.id])
+                            n.color = n.originalColor;
+                        else
+                            n.color = '#eee';
+                    });
+
+                    s.graph.edges().forEach(function (e) {
+                        if (toKeep[e.source] && toKeep[e.target])
+                            e.color = e.originalColor;
+                        else
+                            e.color = '#eee';
+                    });
+
+
+                    // Since the data has been modified, we need to
+                    // call the refresh method to make the colors
+                    // update effective.
+                    s.refresh();
+                });
+                s.bind('rightClickNode', function (e){
+                    $(document).bind("contextmenu", function (event){
+                        event.preventDefault();
+                        $(".contextmenu").finish().toggle(50)
+                        css({
+                            down: event.pageX +"px",
+                            right: event.pageY + "px"
+                        });
+                    });
+
+                    $(document).bind("mousedown",function(e){
+                        if(!$(e.target)().parents(".contextmenu").length >0){
+                            $(".contextmenu").hide(100);
+                        }
+                    });
+
+                    $(".contextmenu li").click(function(){
+                        var url = e.data.node.id;
+                        switch ($(this).attr("data-action")){
+                            case "words":alert("Show top 10 words");
+                                break;
+                            case "visit": window.location.href='http://' + url, '_blank';
+                                break;
+                        }
+                        $(".contextmenu").hide(100);
+                    });
+
+                });
+
+                // When the stage is clicked, we just color each
+                // node and edge with its original color.
+                s.bind('clickStage', function (e) {
+                    s.graph.nodes().forEach(function (n) {
+                        n.color = n.originalColor;
+                    });
+
+                    s.graph.edges().forEach(function (e) {
+                        e.color = e.originalColor;
+                    });
+
+                    // Same as in the previous event:
+                    s.refresh();
+                });
+            }
+    );
+
+    $(document).ready(function () {
+        $('.dataset').hide();
+        $("#policecontainer, #stuffcontainer, #fairfaxcontainer").show();
+        $('#selector').change(function () {
+            $('.dataset').hide();
+            $('#'+$(this).val()).show();
+        })
+    });
+
+
+</script>
+<div id="policecontainer" class="dataset"></div>
+<div id="stuffcontainer" class="dataset"></div>
+<div id="fairfaxcontainer" class="dataset"></div>
+
+</body>
+</html>

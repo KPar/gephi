@@ -1,0 +1,6171 @@
+{
+  "edges": [
+    {
+      "source": "origin-interactives.stuff.co.nz",
+      "target": "www.stuff.co.nz",
+      "id": "24705",
+      "attributes": {
+        "Weight": "24.0"
+      },
+      "color": "rgb(111,111,135)",
+      "size": 24.0
+    },
+    {
+      "source": "www.motortimes.co.nz",
+      "target": "wrcndigital.co.nz",
+      "id": "24636",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "stuff.co.nz",
+      "id": "24765",
+      "attributes": {
+        "Weight": "1888.0"
+      },
+      "color": "rgb(63,159,135)",
+      "size": 1888.0
+    },
+    {
+      "source": "www.presscouncil.org.nz",
+      "target": "www.fueldesign.co.nz",
+      "id": "24763",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.farmers.co.nz",
+      "id": "24711",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.archivestuff.co.nz",
+      "id": "24798",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "celebrations.nelsonmail.co.nz",
+      "id": "24757",
+      "attributes": {
+        "Weight": "8.0"
+      },
+      "color": "rgb(111,111,111)",
+      "size": 8.0
+    },
+    {
+      "source": "i.stuff.co.nz",
+      "target": "my.stuff.co.nz",
+      "id": "24762",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.internationalartcentre.co.nz",
+      "id": "24780",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.travelbug.co.nz",
+      "target": "www.motorweb.co.nz",
+      "id": "24704",
+      "attributes": {
+        "Weight": "102.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 102.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.capitale.org.nz",
+      "id": "24655",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "www.nzhouseandgarden.co.nz",
+      "id": "24661",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 2.0
+    },
+    {
+      "source": "deaths.stuff.co.nz",
+      "target": "deaths.dompost.co.nz",
+      "id": "24657",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,159,63)",
+      "size": 1.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "www.nzlifeandleisure.co.nz",
+      "id": "24840",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "myob.co.nz",
+      "id": "24824",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 2.0
+    },
+    {
+      "source": "www.mags4gifts.co.nz",
+      "target": "static.stuff.co.nz",
+      "id": "24828",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.travelbug.co.nz",
+      "target": "www.lifedirect.co.nz",
+      "id": "24916",
+      "attributes": {
+        "Weight": "102.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 102.0
+    },
+    {
+      "source": "communitynewspapers.co.nz",
+      "target": "www.stuff.co.nz",
+      "id": "24804",
+      "attributes": {
+        "Weight": "11.0"
+      },
+      "color": "rgb(111,111,87)",
+      "size": 11.0
+    },
+    {
+      "source": "www.fairfaxmedia.co.nz",
+      "target": "www.abc.org.nz",
+      "id": "24662",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "communitynewspapers.co.nz",
+      "id": "24820",
+      "attributes": {
+        "Weight": "15.0"
+      },
+      "color": "rgb(111,111,87)",
+      "size": 15.0
+    },
+    {
+      "source": "deaths.stuff.co.nz",
+      "target": "deaths.southlandtimes.co.nz",
+      "id": "24789",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,159,63)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "celebrations.press.co.nz",
+      "id": "24802",
+      "attributes": {
+        "Weight": "6.0"
+      },
+      "color": "rgb(111,111,111)",
+      "size": 6.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "www.nzgardener.co.nz",
+      "id": "24750",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.hotelwellington.co.nz",
+      "id": "24645",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.mags4gifts.co.nz",
+      "target": "www.tvguide.co.nz",
+      "id": "24681",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 1.0
+    },
+    {
+      "source": "i.stuff.co.nz",
+      "target": "fohfum.co.nz",
+      "id": "24635",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "www.travelbug.co.nz",
+      "id": "24856",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(87,111,111)",
+      "size": 2.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "www.fairfaxnie.co.nz",
+      "id": "24755",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.fairfaxnie.co.nz",
+      "id": "24666",
+      "attributes": {
+        "Weight": "2437.0"
+      },
+      "color": "rgb(63,159,87)",
+      "size": 2437.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "www.azdirect.co.nz",
+      "id": "24699",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 2.0
+    },
+    {
+      "source": "origin-interactives.stuff.co.nz",
+      "target": "www.fairfaxmedia.co.nz",
+      "id": "24925",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,111,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.findsomeone.co.nz",
+      "id": "24643",
+      "attributes": {
+        "Weight": "2438.0"
+      },
+      "color": "rgb(87,111,135)",
+      "size": 2438.0
+    },
+    {
+      "source": "i.stuff.co.nz",
+      "target": "albatross.org.nz",
+      "id": "24665",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "www.nzfishingnews.co.nz",
+      "id": "24730",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "albatross.org.nz",
+      "id": "24654",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,111,135)",
+      "size": 1.0
+    },
+    {
+      "source": "www.fairfaxmedia.co.nz",
+      "target": "stuff.co.nz",
+      "id": "24689",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.0
+    },
+    {
+      "source": "fairfaxnie.co.nz",
+      "target": "blacksheepcreative.co.nz",
+      "id": "24883",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,111,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.scoop.co.nz",
+      "id": "24878",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.nziff.co.nz",
+      "id": "24637",
+      "attributes": {
+        "Weight": "4.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 4.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "fairfaxnie.co.nz",
+      "id": "24841",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,135,135)",
+      "size": 1.0
+    },
+    {
+      "source": "www.motorweb.co.nz",
+      "target": "www.trademe.co.nz",
+      "id": "24778",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 2.0
+    },
+    {
+      "source": "www.fairfaxmedia.co.nz",
+      "target": "essentialmums.co.nz",
+      "id": "24905",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.getthelingo.co.nz",
+      "target": "jameshardie.co.nz",
+      "id": "24847",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.adstuff.co.nz",
+      "target": "www.trademe.co.nz",
+      "id": "24629",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "blog.travelbug.co.nz",
+      "target": "www.travelbug.co.nz",
+      "id": "24805",
+      "attributes": {
+        "Weight": "75.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 75.0
+    },
+    {
+      "source": "www.getthelingo.co.nz",
+      "target": "www.franciauys.co.nz",
+      "id": "24680",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.throng.co.nz",
+      "id": "24640",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.govt.nz",
+      "id": "24725",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "www.trademe.co.nz",
+      "id": "24788",
+      "attributes": {
+        "Weight": "8.0"
+      },
+      "color": "rgb(87,111,111)",
+      "size": 8.0
+    },
+    {
+      "source": "communitynewspapers.co.nz",
+      "target": "www.admiremagazine.co.nz",
+      "id": "24833",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.presscouncil.org.nz",
+      "id": "24648",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,111,135)",
+      "size": 1.0
+    },
+    {
+      "source": "www.fairfaxmedia.co.nz",
+      "target": "www.stuff.co.nz",
+      "id": "24729",
+      "attributes": {
+        "Weight": "13.0"
+      },
+      "color": "rgb(63,159,135)",
+      "size": 13.0
+    },
+    {
+      "source": "i.stuff.co.nz",
+      "target": "www.morefm.co.nz",
+      "id": "24718",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "www.essentialmums.co.nz",
+      "id": "24734",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 2.0
+    },
+    {
+      "source": "i.stuff.co.nz",
+      "target": "burrowandbe.co.nz",
+      "id": "24834",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "static.stuff.co.nz",
+      "id": "24897",
+      "attributes": {
+        "Weight": "4.0"
+      },
+      "color": "rgb(63,159,135)",
+      "size": 4.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "fohfum.co.nz",
+      "id": "24814",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(111,111,135)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "technology.fairfaxmedia.co.nz",
+      "id": "24728",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.streetandcityphotos.blogspot.co.nz",
+      "id": "24866",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.tellingitasitis.co.nz",
+      "id": "24891",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "celebrations.stuff.co.nz",
+      "id": "24876",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(111,111,87)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "livenews.co.nz",
+      "id": "24683",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "deaths.marlexpress.co.nz",
+      "id": "24761",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 2.0
+    },
+    {
+      "source": "www.westpac.co.nz",
+      "target": "engage.ubiquity.co.nz",
+      "id": "24744",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.nzbcf.org.nz",
+      "id": "24919",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "www.mags4gifts.co.nz",
+      "id": "24719",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 2.0
+    },
+    {
+      "source": "origin-interactives.stuff.co.nz",
+      "target": "i.stuff.co.nz",
+      "id": "24874",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.getthelingo.co.nz",
+      "id": "24779",
+      "attributes": {
+        "Weight": "8.0"
+      },
+      "color": "rgb(63,111,135)",
+      "size": 8.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "celebrations.timaruherald.co.nz",
+      "id": "24901",
+      "attributes": {
+        "Weight": "3.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 3.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.offthetracks.co.nz",
+      "id": "24830",
+      "attributes": {
+        "Weight": "57.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 57.0
+    },
+    {
+      "source": "www.travelbug.co.nz",
+      "target": "bookings.dev.bookit.co.nz",
+      "id": "24929",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.morefm.co.nz",
+      "id": "24813",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(111,111,135)",
+      "size": 2.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "www.stuff.co.nz",
+      "id": "24733",
+      "attributes": {
+        "Weight": "221.0"
+      },
+      "color": "rgb(63,159,87)",
+      "size": 221.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.nzgardener.co.nz",
+      "id": "24639",
+      "attributes": {
+        "Weight": "2437.0"
+      },
+      "color": "rgb(63,159,87)",
+      "size": 2437.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.eventfinder.co.nz",
+      "id": "24703",
+      "attributes": {
+        "Weight": "4.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 4.0
+    },
+    {
+      "source": "celebrations.stuff.co.nz",
+      "target": "celebrations.nelsonmail.co.nz",
+      "id": "24631",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.dlapiper.co.nz",
+      "id": "24823",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 2.0
+    },
+    {
+      "source": "www.motorweb.co.nz",
+      "target": "www.stuff.co.nz",
+      "id": "24880",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(87,111,135)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.noelleeming.co.nz",
+      "id": "24650",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "my.stuff.co.nz",
+      "id": "24676",
+      "attributes": {
+        "Weight": "25.0"
+      },
+      "color": "rgb(111,111,135)",
+      "size": 25.0
+    },
+    {
+      "source": "celebrations.stuff.co.nz",
+      "target": "celebrations.dompost.co.nz",
+      "id": "24858",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.lifedirect.co.nz",
+      "target": "www.stuff.co.nz",
+      "id": "24724",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(87,111,135)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "deaths.stuff.co.nz",
+      "id": "24740",
+      "attributes": {
+        "Weight": "2435.0"
+      },
+      "color": "rgb(87,159,87)",
+      "size": 2435.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.weatherzone.co.nz",
+      "id": "24669",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.kikitangeo.co.nz",
+      "id": "24642",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "www.eventfinda.co.nz",
+      "id": "24861",
+      "attributes": {
+        "Weight": "5.0"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 5.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "i.stuff.co.nz",
+      "id": "24816",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(111,111,111)",
+      "size": 2.0
+    },
+    {
+      "source": "www.lifedirect.co.nz",
+      "target": "www.sitehost.co.nz",
+      "id": "24881",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "i.stuff.co.nz",
+      "target": "roomie.co.nz",
+      "id": "24898",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "givealittle.co.nz",
+      "id": "24918",
+      "attributes": {
+        "Weight": "14.0"
+      },
+      "color": "rgb(111,111,135)",
+      "size": 14.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "nzcms.fairfaxmedia.co.nz",
+      "id": "24852",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "deaths.manawatustandard.co.nz",
+      "id": "24652",
+      "attributes": {
+        "Weight": "5.0"
+      },
+      "color": "rgb(87,159,87)",
+      "size": 5.0
+    },
+    {
+      "source": "www.mags4gifts.co.nz",
+      "target": "www.stuff.co.nz",
+      "id": "24774",
+      "attributes": {
+        "Weight": "8.0"
+      },
+      "color": "rgb(63,159,87)",
+      "size": 8.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "pro.eventfinda.co.nz",
+      "id": "24906",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 2.0
+    },
+    {
+      "source": "www.getthelingo.co.nz",
+      "target": "www.grabone.co.nz",
+      "id": "24679",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "celebrations.stuff.co.nz",
+      "target": "celebrations.marlexpress.co.nz",
+      "id": "24710",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "fairfaxmedia.co.nz",
+      "id": "24687",
+      "attributes": {
+        "Weight": "1865.0"
+      },
+      "color": "rgb(63,159,87)",
+      "size": 1865.0
+    },
+    {
+      "source": "wrcndigital.co.nz",
+      "target": "www.waikatotimeslodge.co.nz",
+      "id": "24793",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "hawaiianairlines.co.nz",
+      "id": "24747",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "www.findsomeone.co.nz",
+      "id": "24815",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(87,111,111)",
+      "size": 2.0
+    },
+    {
+      "source": "www.morefm.co.nz",
+      "target": "www.mediaworks.co.nz",
+      "id": "24633",
+      "attributes": {
+        "Weight": "5.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 5.0
+    },
+    {
+      "source": "www.travelbug.co.nz",
+      "target": "www.trademe.co.nz",
+      "id": "24675",
+      "attributes": {
+        "Weight": "105.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 105.0
+    },
+    {
+      "source": "www.fairfaxmedia.co.nz",
+      "target": "mysubscription.co.nz",
+      "id": "24700",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 2.0
+    },
+    {
+      "source": "www.travelbug.co.nz",
+      "target": "www.treatme.co.nz",
+      "id": "24768",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 2.0
+    },
+    {
+      "source": "communitynewspapers.co.nz",
+      "target": "e-edition.cambridgeedition.co.nz",
+      "id": "24909",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.hetoki.co.nz",
+      "id": "24712",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(111,111,135)",
+      "size": 2.0
+    },
+    {
+      "source": "www.travelbug.co.nz",
+      "target": "business.bookit.co.nz",
+      "id": "24742",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "ticketmaster.co.nz",
+      "id": "24773",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "neighboursday.org.nz",
+      "id": "24867",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.travelbug.co.nz",
+      "target": "www.holidayhouses.co.nz",
+      "id": "24859",
+      "attributes": {
+        "Weight": "102.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 102.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.chiefandco.co.nz",
+      "id": "24850",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "quantum.otago.ac.nz",
+      "id": "24889",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.cbon.co.nz",
+      "id": "24795",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.lifedirect.co.nz",
+      "target": "www.trademe.co.nz",
+      "id": "24716",
+      "attributes": {
+        "Weight": "36.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 36.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.skycityauckland.co.nz",
+      "id": "24722",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.essentialmums.co.nz",
+      "id": "24911",
+      "attributes": {
+        "Weight": "2435.0"
+      },
+      "color": "rgb(63,159,135)",
+      "size": 2435.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.sbsstjamesgore.co.nz",
+      "id": "24694",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "taupohalfmarathon.org.nz",
+      "id": "24739",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "deaths.taranakidailynews.co.nz",
+      "id": "24772",
+      "attributes": {
+        "Weight": "6.0"
+      },
+      "color": "rgb(87,159,87)",
+      "size": 6.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "juliebhosale.co.nz",
+      "id": "24646",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.lifeline.org.nz",
+      "id": "24693",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.azdirect.co.nz",
+      "id": "24845",
+      "attributes": {
+        "Weight": "2437.0"
+      },
+      "color": "rgb(63,159,87)",
+      "size": 2437.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.getmags.co.nz",
+      "id": "24846",
+      "attributes": {
+        "Weight": "5.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 5.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.westpac.co.nz",
+      "id": "24800",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(111,111,135)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "burrowandbe.co.nz",
+      "id": "24723",
+      "attributes": {
+        "Weight": "4.0"
+      },
+      "color": "rgb(111,111,135)",
+      "size": 4.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.airnewzealand.co.nz",
+      "id": "24660",
+      "attributes": {
+        "Weight": "5.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 5.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "cuisine.co.nz",
+      "id": "24731",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "becomeastar.co.nz",
+      "id": "24838",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.ccc.govt.nz",
+      "id": "24688",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "origin-interactives.stuff.co.nz",
+      "id": "24668",
+      "attributes": {
+        "Weight": "37.0"
+      },
+      "color": "rgb(111,111,135)",
+      "size": 37.0
+    },
+    {
+      "source": "i.stuff.co.nz",
+      "target": "www.presscouncil.org.nz",
+      "id": "24653",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.adstuff.co.nz",
+      "id": "24782",
+      "attributes": {
+        "Weight": "2437.0"
+      },
+      "color": "rgb(87,111,135)",
+      "size": 2437.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.stats.govt.nz",
+      "id": "24902",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "blog.travelbug.co.nz",
+      "target": "www.trademe.co.nz",
+      "id": "24796",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.fairfaxmedia.co.nz",
+      "id": "24872",
+      "attributes": {
+        "Weight": "7884.0"
+      },
+      "color": "rgb(63,159,135)",
+      "size": 7884.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "celebrations.waikatotimes.co.nz",
+      "id": "24697",
+      "attributes": {
+        "Weight": "20.0"
+      },
+      "color": "rgb(111,111,111)",
+      "size": 20.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "i.stuff.co.nz",
+      "id": "24917",
+      "attributes": {
+        "Weight": "2436.0"
+      },
+      "color": "rgb(111,111,135)",
+      "size": 2436.0
+    },
+    {
+      "source": "celebrations.stuff.co.nz",
+      "target": "celebrations.manawatustandard.co.nz",
+      "id": "24887",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "deaths.waikatotimes.co.nz",
+      "id": "24749",
+      "attributes": {
+        "Weight": "20.0"
+      },
+      "color": "rgb(87,159,87)",
+      "size": 20.0
+    },
+    {
+      "source": "www.lifedirect.co.nz",
+      "target": "my.lifedirect.co.nz",
+      "id": "24741",
+      "attributes": {
+        "Weight": "35.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 35.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "fairfaxmedia.co.nz",
+      "id": "24854",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.ero.govt.nz",
+      "id": "24672",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "advertise-on-stuff.co.nz",
+      "target": "www.fairfaxmedia.co.nz",
+      "id": "24717",
+      "attributes": {
+        "Weight": "9.0"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 9.0
+    },
+    {
+      "source": "www.adstuff.co.nz",
+      "target": "www.fairfaxnz.co.nz",
+      "id": "24677",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.fairfaxmedia.co.nz",
+      "target": "www.essentialmums.co.nz",
+      "id": "24842",
+      "attributes": {
+        "Weight": "5.0"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 5.0
+    },
+    {
+      "source": "celebrations.stuff.co.nz",
+      "target": "celebrations.southlandtimes.co.nz",
+      "id": "24894",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "m.stuff.co.nz",
+      "id": "24721",
+      "attributes": {
+        "Weight": "1865.0"
+      },
+      "color": "rgb(63,159,87)",
+      "size": 1865.0
+    },
+    {
+      "source": "communitynewspapers.co.nz",
+      "target": "centralcanterburynews.fairfaxmedia.co.nz",
+      "id": "24875",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0
+    },
+    {
+      "source": "i.stuff.co.nz",
+      "target": "www.extramilerunners.co.nz",
+      "id": "24678",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "celebrations.dompost.co.nz",
+      "id": "24696",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(111,111,111)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "at.govt.nz",
+      "id": "24877",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.fairfaxmedia.co.nz",
+      "target": "www.iab.org.nz",
+      "id": "24882",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.littlethings.co.nz",
+      "id": "24865",
+      "attributes": {
+        "Weight": "3.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 3.0
+    },
+    {
+      "source": "www.travelbug.co.nz",
+      "target": "m.travelbug.co.nz",
+      "id": "24794",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "celebrations.marlexpress.co.nz",
+      "id": "24927",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(111,111,111)",
+      "size": 2.0
+    },
+    {
+      "source": "advertise-on-stuff.co.nz",
+      "target": "file.stuff.co.nz",
+      "id": "24831",
+      "attributes": {
+        "Weight": "3.0"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 3.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.oasisbeauty.co.nz",
+      "id": "24928",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.lifedirect.co.nz",
+      "target": "trademe.co.nz",
+      "id": "24862",
+      "attributes": {
+        "Weight": "40.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 40.0
+    },
+    {
+      "source": "i.stuff.co.nz",
+      "target": "www.getthelingo.co.nz",
+      "id": "24835",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "wrcndigital.co.nz",
+      "target": "www.wrcndigital.co.nz",
+      "id": "24843",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "roomie.co.nz",
+      "id": "24756",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(111,111,135)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.nzta.govt.nz",
+      "id": "24641",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.adstuff.co.nz",
+      "target": "www.travelbug.co.nz",
+      "id": "24753",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "deaths.stuff.co.nz",
+      "id": "24752",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(87,159,63)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.taupodc.govt.nz",
+      "id": "24844",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.nzavocado.co.nz",
+      "id": "24812",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.fairfaxmedia.co.nz",
+      "target": "www.mpa.org.nz",
+      "id": "24868",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 2.0
+    },
+    {
+      "source": "www.fishpond.co.nz",
+      "target": "fishpond.co.nz",
+      "id": "24769",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "nzherald.co.nz",
+      "id": "24776",
+      "attributes": {
+        "Weight": "3.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 3.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.airshare.co.nz",
+      "id": "24720",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.glaciersouthernlakes.co.nz",
+      "id": "24736",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.travelbug.co.nz",
+      "id": "24651",
+      "attributes": {
+        "Weight": "2438.0"
+      },
+      "color": "rgb(87,111,135)",
+      "size": 2438.0
+    },
+    {
+      "source": "www.lifedirect.co.nz",
+      "target": "www.findsomeone.co.nz",
+      "id": "24692",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.motorweb.co.nz",
+      "target": "www.holidayhouses.co.nz",
+      "id": "24825",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.depression.org.nz",
+      "id": "24806",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.kitchen-maid.blogspot.co.nz",
+      "id": "24799",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.fairfaxmedia.co.nz",
+      "target": "www.newsworksnz.co.nz",
+      "id": "24826",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "celebrations.stuff.co.nz",
+      "id": "24912",
+      "attributes": {
+        "Weight": "2434.0"
+      },
+      "color": "rgb(111,111,111)",
+      "size": 2434.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.vodafone.co.nz",
+      "id": "24630",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.adstuff.co.nz",
+      "target": "www.findsomeone.co.nz",
+      "id": "24714",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.wwoof.co.nz",
+      "id": "24836",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.adventureworld.co.nz",
+      "id": "24751",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.foundbear.co.nz",
+      "id": "24644",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.heritagehotels.co.nz",
+      "id": "24857",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 2.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "www.cuisine.co.nz",
+      "id": "24888",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 2.0
+    },
+    {
+      "source": "givealittle.co.nz",
+      "target": "sparkfoundation.org.nz",
+      "id": "24870",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.mags4gifts.co.nz",
+      "id": "24885",
+      "attributes": {
+        "Weight": "2471.0"
+      },
+      "color": "rgb(63,159,87)",
+      "size": 2471.0
+    },
+    {
+      "source": "www.adstuff.co.nz",
+      "target": "www.rugbyheaven.co.nz",
+      "id": "24628",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.fishpond.co.nz",
+      "id": "24781",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(111,111,135)",
+      "size": 2.0
+    },
+    {
+      "source": "www.fairfaxmedia.co.nz",
+      "target": "www.mags4gifts.co.nz",
+      "id": "24810",
+      "attributes": {
+        "Weight": "8.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 8.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "deaths.southlandtimes.co.nz",
+      "id": "24818",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(87,159,87)",
+      "size": 2.0
+    },
+    {
+      "source": "blog.travelbug.co.nz",
+      "target": "www.motorweb.co.nz",
+      "id": "24817",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "mags4gifts.co.nz",
+      "id": "24908",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.robinmorrison.co.nz",
+      "id": "24821",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.motortimes.co.nz",
+      "target": "waikatotimes.co.nz",
+      "id": "24745",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.extramilerunners.co.nz",
+      "id": "24758",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(111,111,135)",
+      "size": 2.0
+    },
+    {
+      "source": "www.travelbug.co.nz",
+      "target": "www.findsomeone.co.nz",
+      "id": "24786",
+      "attributes": {
+        "Weight": "102.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 102.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "myfoodbag.co.nz",
+      "id": "24884",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "i.stuff.co.nz",
+      "target": "www.stuff.co.nz",
+      "id": "24899",
+      "attributes": {
+        "Weight": "213.0"
+      },
+      "color": "rgb(111,111,135)",
+      "size": 213.0
+    },
+    {
+      "source": "advertise-on-stuff.co.nz",
+      "target": "www.stuff.co.nz",
+      "id": "24670",
+      "attributes": {
+        "Weight": "12.0"
+      },
+      "color": "rgb(63,159,135)",
+      "size": 12.0
+    },
+    {
+      "source": "blog.travelbug.co.nz",
+      "target": "www.findsomeone.co.nz",
+      "id": "24910",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "celebrations.taranakidailynews.co.nz",
+      "id": "24895",
+      "attributes": {
+        "Weight": "6.0"
+      },
+      "color": "rgb(111,111,111)",
+      "size": 6.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.bhu.org.nz",
+      "id": "24926",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.travelbug.co.nz",
+      "target": "worldwide.travelbug.co.nz",
+      "id": "24663",
+      "attributes": {
+        "Weight": "39.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 39.0
+    },
+    {
+      "source": "communitynewspapers.co.nz",
+      "target": "www.fairfaxmedia.co.nz",
+      "id": "24879",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,111,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.hotpoints.co.nz",
+      "id": "24713",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 2.0
+    },
+    {
+      "source": "deaths.stuff.co.nz",
+      "target": "deaths.taranakidailynews.co.nz",
+      "id": "24915",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,159,63)",
+      "size": 1.0
+    },
+    {
+      "source": "blog.travelbug.co.nz",
+      "target": "www.stuff.co.nz",
+      "id": "24770",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(87,111,135)",
+      "size": 1.0
+    },
+    {
+      "source": "blog.travelbug.co.nz",
+      "target": "www.holidayhouses.co.nz",
+      "id": "24869",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.fairfaxnz.co.nz",
+      "id": "24777",
+      "attributes": {
+        "Weight": "3.0"
+      },
+      "color": "rgb(87,111,135)",
+      "size": 3.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.cuisine.co.nz",
+      "id": "24849",
+      "attributes": {
+        "Weight": "2437.0"
+      },
+      "color": "rgb(63,159,87)",
+      "size": 2437.0
+    },
+    {
+      "source": "www.travelbug.co.nz",
+      "target": "www.interislander.co.nz",
+      "id": "24759",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 2.0
+    },
+    {
+      "source": "i.stuff.co.nz",
+      "target": "www.hetoki.co.nz",
+      "id": "24913",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.nzfishingnews.co.nz",
+      "id": "24924",
+      "attributes": {
+        "Weight": "2437.0"
+      },
+      "color": "rgb(63,159,87)",
+      "size": 2437.0
+    },
+    {
+      "source": "deaths.stuff.co.nz",
+      "target": "deaths.press.co.nz",
+      "id": "24904",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,159,63)",
+      "size": 1.0
+    },
+    {
+      "source": "www.fairfaxmedia.co.nz",
+      "target": "careers.fairfaxmedia.co.nz",
+      "id": "24738",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.nzfarmer.co.nz",
+      "id": "24914",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "fairfaxnie.co.nz",
+      "target": "www.stuff.co.nz",
+      "id": "24673",
+      "attributes": {
+        "Weight": "9.0"
+      },
+      "color": "rgb(63,135,135)",
+      "size": 9.0
+    },
+    {
+      "source": "celebrations.stuff.co.nz",
+      "target": "celebrations.taranakidailynews.co.nz",
+      "id": "24634",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "dompost.mypaper.co.nz",
+      "id": "24732",
+      "attributes": {
+        "Weight": "6.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 6.0
+    },
+    {
+      "source": "www.motorweb.co.nz",
+      "target": "www.lifedirect.co.nz",
+      "id": "24903",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.neighbourly.co.nz",
+      "id": "24922",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.my.stuff.co.nz",
+      "id": "24690",
+      "attributes": {
+        "Weight": "3.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 3.0
+    },
+    {
+      "source": "i.stuff.co.nz",
+      "target": "stuff.co.nz",
+      "id": "24671",
+      "attributes": {
+        "Weight": "3.0"
+      },
+      "color": "rgb(111,111,159)",
+      "size": 3.0
+    },
+    {
+      "source": "blog.travelbug.co.nz",
+      "target": "www.lifedirect.co.nz",
+      "id": "24656",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "wrcndigital.co.nz",
+      "target": "www.waikatotimesraywhite.co.nz",
+      "id": "24811",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0
+    },
+    {
+      "source": "i.stuff.co.nz",
+      "target": "www.fishpond.co.nz",
+      "id": "24715",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "celebrations.manawatustandard.co.nz",
+      "id": "24682",
+      "attributes": {
+        "Weight": "5.0"
+      },
+      "color": "rgb(111,111,111)",
+      "size": 5.0
+    },
+    {
+      "source": "deaths.stuff.co.nz",
+      "target": "deaths.manawatustandard.co.nz",
+      "id": "24822",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,159,63)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.nzhouseandgarden.co.nz",
+      "id": "24624",
+      "attributes": {
+        "Weight": "2437.0"
+      },
+      "color": "rgb(63,159,87)",
+      "size": 2437.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "deaths.dompost.co.nz",
+      "id": "24853",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(87,159,87)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.alzheimers.org.nz",
+      "id": "24686",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.fairfaxmedia.co.nz",
+      "target": "www.marketing.org.nz",
+      "id": "24871",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "pricespy.co.nz",
+      "id": "24667",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "privacy.org.nz",
+      "id": "24766",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "wrcndigital.co.nz",
+      "id": "24632",
+      "attributes": {
+        "Weight": "43.0"
+      },
+      "color": "rgb(111,111,87)",
+      "size": 43.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "deaths.timaruherald.co.nz",
+      "id": "24760",
+      "attributes": {
+        "Weight": "3.0"
+      },
+      "color": "rgb(87,159,87)",
+      "size": 3.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.flightcentre.co.nz",
+      "id": "24790",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.lifedirect.co.nz",
+      "id": "24746",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(87,111,135)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.childrensday.org.nz",
+      "id": "24839",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.theorb.org.nz",
+      "id": "24797",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.fairfaxmedia.co.nz",
+      "target": "www.anza.co.nz",
+      "id": "24900",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 2.0
+    },
+    {
+      "source": "advertise-on-stuff.co.nz",
+      "target": "static.stuff.co.nz",
+      "id": "24638",
+      "attributes": {
+        "Weight": "3.0"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 3.0
+    },
+    {
+      "source": "www.azdirect.co.nz",
+      "target": "www.stuff.co.nz",
+      "id": "24701",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,87)",
+      "size": 1.0
+    },
+    {
+      "source": "www.mags4gifts.co.nz",
+      "target": "www.nzlifeandleisure.co.nz",
+      "id": "24808",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.interactives.co.nz",
+      "id": "24649",
+      "attributes": {
+        "Weight": "76.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 76.0
+    },
+    {
+      "source": "www.azdirect.co.nz",
+      "target": "www.digithink.co.nz",
+      "id": "24892",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "herbalhealthwaiheke.co.nz",
+      "id": "24819",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "deaths.nelsonmail.co.nz",
+      "id": "24708",
+      "attributes": {
+        "Weight": "8.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 8.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "m.stuff.co.nz",
+      "id": "24767",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "file.stuff.co.nz",
+      "id": "24626",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,135)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.radionz.co.nz",
+      "id": "24748",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.adstuff.co.nz",
+      "target": "www.oldfriends.co.nz",
+      "id": "24809",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.travelbug.co.nz",
+      "target": "bookings.bookit.co.nz",
+      "id": "24707",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "celebrations.stuff.co.nz",
+      "target": "celebrations.press.co.nz",
+      "id": "24873",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.speedshow.co.nz",
+      "id": "24691",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 2.0
+    },
+    {
+      "source": "www.fairfaxmedia.co.nz",
+      "target": "www.caanz.co.nz",
+      "id": "24803",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 2.0
+    },
+    {
+      "source": "www.travelbug.co.nz",
+      "target": "www.airbus.co.nz",
+      "id": "24695",
+      "attributes": {
+        "Weight": "5.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 5.0
+    },
+    {
+      "source": "www.getthelingo.co.nz",
+      "target": "neighbourly.co.nz",
+      "id": "24771",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.lifedirect.co.nz",
+      "target": "www.motorweb.co.nz",
+      "id": "24702",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "engage.ubiquity.co.nz",
+      "id": "24921",
+      "attributes": {
+        "Weight": "6.0"
+      },
+      "color": "rgb(111,111,135)",
+      "size": 6.0
+    },
+    {
+      "source": "communitynewspapers.co.nz",
+      "target": "www.waikatotimesbayleys.co.nz",
+      "id": "24864",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0
+    },
+    {
+      "source": "deaths.stuff.co.nz",
+      "target": "deaths.waikatotimes.co.nz",
+      "id": "24890",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,159,63)",
+      "size": 1.0
+    },
+    {
+      "source": "www.fairfaxmedia.co.nz",
+      "target": "www.asa.co.nz",
+      "id": "24743",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "dompost.co.nz",
+      "id": "24791",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "surf.co.nz",
+      "id": "24783",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 2.0
+    },
+    {
+      "source": "www.motorweb.co.nz",
+      "target": "www.findsomeone.co.nz",
+      "id": "24784",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.nzlifeandleisure.co.nz",
+      "id": "24727",
+      "attributes": {
+        "Weight": "2437.0"
+      },
+      "color": "rgb(63,159,87)",
+      "size": 2437.0
+    },
+    {
+      "source": "burrowandbe.co.nz",
+      "target": "www.shopify.co.nz",
+      "id": "24785",
+      "attributes": {
+        "Weight": "4.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 4.0
+    },
+    {
+      "source": "i.stuff.co.nz",
+      "target": "givealittle.co.nz",
+      "id": "24827",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 2.0
+    },
+    {
+      "source": "www.getthelingo.co.nz",
+      "target": "zoomy.co.nz",
+      "id": "24775",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "celebrations.southlandtimes.co.nz",
+      "id": "24855",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(111,111,111)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.seafoodnewzealand.org.nz",
+      "id": "24647",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "wrcndigital.co.nz",
+      "target": "www.waikatotimesharcourts.co.nz",
+      "id": "24907",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0
+    },
+    {
+      "source": "deaths.stuff.co.nz",
+      "target": "deaths.timaruherald.co.nz",
+      "id": "24787",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,159,63)",
+      "size": 1.0
+    },
+    {
+      "source": "www.interactives.co.nz",
+      "target": "www.stuff.co.nz",
+      "id": "24685",
+      "attributes": {
+        "Weight": "4.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 4.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.holidayhouses.co.nz",
+      "id": "24860",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(87,111,135)",
+      "size": 1.0
+    },
+    {
+      "source": "www.getthelingo.co.nz",
+      "target": "www.pet.co.nz",
+      "id": "24851",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "i.stuff.co.nz",
+      "target": "www.westpac.co.nz",
+      "id": "24886",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.trademe.co.nz",
+      "id": "24801",
+      "attributes": {
+        "Weight": "9750.0"
+      },
+      "color": "rgb(87,111,135)",
+      "size": 9750.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.meccacosmetica.co.nz",
+      "id": "24698",
+      "attributes": {
+        "Weight": "3.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 3.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.myfoodbag.co.nz",
+      "id": "24737",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "givealittle.co.nz",
+      "target": "sparkmypotential.co.nz",
+      "id": "24863",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.airtahitinui.co.nz",
+      "id": "24659",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.admiremagazine.co.nz",
+      "id": "24896",
+      "attributes": {
+        "Weight": "6.0"
+      },
+      "color": "rgb(111,111,87)",
+      "size": 6.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.preview.stuff.co.nz",
+      "id": "24674",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 2.0
+    },
+    {
+      "source": "www.motorweb.co.nz",
+      "target": "www.travelbug.co.nz",
+      "id": "24625",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.motortimes.co.nz",
+      "target": "communitynewspapers.co.nz",
+      "id": "24848",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "yha.co.nz",
+      "id": "24664",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.lifedirect.co.nz",
+      "target": "www.travelbug.co.nz",
+      "id": "24807",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "wrcndigital.co.nz",
+      "target": "www.waikatotimeslugtons.co.nz",
+      "id": "24735",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0
+    },
+    {
+      "source": "wrcndigital.co.nz",
+      "target": "www.locationwaikato.co.nz",
+      "id": "24893",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.livenation.co.nz",
+      "id": "24684",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "deaths.press.co.nz",
+      "id": "24764",
+      "attributes": {
+        "Weight": "6.0"
+      },
+      "color": "rgb(87,159,87)",
+      "size": 6.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "events.stuff.co.nz",
+      "id": "24754",
+      "attributes": {
+        "Weight": "200.0"
+      },
+      "color": "rgb(63,159,87)",
+      "size": 200.0
+    },
+    {
+      "source": "www.adstuff.co.nz",
+      "target": "www.stuff.co.nz",
+      "id": "24837",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(87,111,135)",
+      "size": 1.0
+    },
+    {
+      "source": "celebrations.stuff.co.nz",
+      "target": "celebrations.waikatotimes.co.nz",
+      "id": "24923",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(159,63,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.travelbug.co.nz",
+      "target": "www.stuff.co.nz",
+      "id": "24792",
+      "attributes": {
+        "Weight": "102.0"
+      },
+      "color": "rgb(87,111,135)",
+      "size": 102.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "www.adstuff.co.nz",
+      "id": "24709",
+      "attributes": {
+        "Weight": "2.0"
+      },
+      "color": "rgb(87,111,111)",
+      "size": 2.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.arts.canterbury.ac.nz",
+      "id": "24706",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "cdn.auckland.ac.nz",
+      "id": "24832",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0
+    },
+    {
+      "source": "www.lifedirect.co.nz",
+      "target": "www.holidayhouses.co.nz",
+      "id": "24920",
+      "attributes": {
+        "Weight": "1.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0
+    },
+    {
+      "source": "www.stuff.co.nz",
+      "target": "www.motortimes.co.nz",
+      "id": "24627",
+      "attributes": {
+        "Weight": "16.0"
+      },
+      "color": "rgb(111,111,87)",
+      "size": 16.0
+    },
+    {
+      "source": "www.travelbug.co.nz",
+      "target": "blog.travelbug.co.nz",
+      "id": "24829",
+      "attributes": {
+        "Weight": "102.0"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 102.0
+    },
+    {
+      "source": "events.stuff.co.nz",
+      "target": "www.fairfaxmedia.co.nz",
+      "id": "24658",
+      "attributes": {
+        "Weight": "6.0"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 6.0
+    },
+    {
+      "source": "i.stuff.co.nz",
+      "target": "www.mags4gifts.co.nz",
+      "id": "24726",
+      "attributes": {
+        "Weight": "4.0"
+      },
+      "color": "rgb(111,111,111)",
+      "size": 4.0
+    }
+  ],
+  "nodes": [
+    {
+      "label": "www.theorb.org.nz",
+      "x": -8.0311279296875,
+      "y": 14.0845308303833,
+      "id": "www.theorb.org.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.scoop.co.nz",
+      "x": -26.612855911254883,
+      "y": -3.112868070602417,
+      "id": "www.scoop.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.hotpoints.co.nz",
+      "x": -5.882358074188232,
+      "y": 4.743716716766357,
+      "id": "www.hotpoints.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.radionz.co.nz",
+      "x": 26.90768814086914,
+      "y": -27.90730094909668,
+      "id": "www.radionz.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.ero.govt.nz",
+      "x": -12.828994750976562,
+      "y": -13.528692245483398,
+      "id": "www.ero.govt.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.stats.govt.nz",
+      "x": -15.144230842590332,
+      "y": -13.091879844665527,
+      "id": "www.stats.govt.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.streetandcityphotos.blogspot.co.nz",
+      "x": 27.08832359313965,
+      "y": 7.138579368591309,
+      "id": "www.streetandcityphotos.blogspot.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.arts.canterbury.ac.nz",
+      "x": -3.5128002166748047,
+      "y": -9.283368110656738,
+      "id": "www.arts.canterbury.ac.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "deaths.marlexpress.co.nz",
+      "x": -15.6985502243042,
+      "y": -7.893458366394043,
+      "id": "deaths.marlexpress.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.eventfinder.co.nz",
+      "x": -10.786954879760742,
+      "y": -16.351224899291992,
+      "id": "www.eventfinder.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.trademe.co.nz",
+      "x": 10.777935028076172,
+      "y": -2.9071202278137207,
+      "id": "www.trademe.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "7",
+        "In-Degree": "7"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.1272727251052856
+    },
+    {
+      "label": "www.taupodc.govt.nz",
+      "x": -19.07699966430664,
+      "y": -3.199401617050171,
+      "id": "www.taupodc.govt.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "celebrations.nelsonmail.co.nz",
+      "x": 6.098443984985352,
+      "y": 21.54573631286621,
+      "id": "celebrations.nelsonmail.co.nz",
+      "attributes": {
+        "Modularity Class": "4",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,111)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "celebrations.taranakidailynews.co.nz",
+      "x": -2.717395305633545,
+      "y": -6.466430187225342,
+      "id": "celebrations.taranakidailynews.co.nz",
+      "attributes": {
+        "Modularity Class": "4",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,111)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "m.stuff.co.nz",
+      "x": 7.693675994873047,
+      "y": 2.3304524421691895,
+      "id": "m.stuff.co.nz",
+      "attributes": {
+        "Modularity Class": "11",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.kikitangeo.co.nz",
+      "x": -0.4941517114639282,
+      "y": 17.744386672973633,
+      "id": "www.kikitangeo.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "yha.co.nz",
+      "x": 23.6737003326416,
+      "y": -15.789546966552734,
+      "id": "yha.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "celebrations.dompost.co.nz",
+      "x": 33.048160552978516,
+      "y": -2.397568941116333,
+      "id": "celebrations.dompost.co.nz",
+      "attributes": {
+        "Modularity Class": "4",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,111)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.travelbug.co.nz",
+      "x": 7.681858062744141,
+      "y": -27.254901885986328,
+      "id": "www.travelbug.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "103.0",
+        "Out-Degree": "15",
+        "Degree": "21",
+        "In-Degree": "6"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.381818175315857
+    },
+    {
+      "label": "worldwide.travelbug.co.nz",
+      "x": -8.385427474975586,
+      "y": -9.172747611999512,
+      "id": "worldwide.travelbug.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.oasisbeauty.co.nz",
+      "x": 7.428739547729492,
+      "y": 17.75417709350586,
+      "id": "www.oasisbeauty.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.noelleeming.co.nz",
+      "x": 5.730545997619629,
+      "y": 10.394593238830566,
+      "id": "www.noelleeming.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "origin-interactives.stuff.co.nz",
+      "x": -21.96711540222168,
+      "y": -12.104317665100098,
+      "id": "origin-interactives.stuff.co.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "1.0",
+        "Out-Degree": "3",
+        "Degree": "4",
+        "In-Degree": "1"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0727273225784302
+    },
+    {
+      "label": "www.nzlifeandleisure.co.nz",
+      "x": 21.01759147644043,
+      "y": 1.3289531469345093,
+      "id": "www.nzlifeandleisure.co.nz",
+      "attributes": {
+        "Modularity Class": "11",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "3",
+        "In-Degree": "3"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 1.0545454025268555
+    },
+    {
+      "label": "celebrations.press.co.nz",
+      "x": -0.06532669067382812,
+      "y": 4.400055885314941,
+      "id": "celebrations.press.co.nz",
+      "attributes": {
+        "Modularity Class": "4",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,111)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.newsworksnz.co.nz",
+      "x": 24.631500244140625,
+      "y": 26.89410400390625,
+      "id": "www.newsworksnz.co.nz",
+      "attributes": {
+        "Modularity Class": "1",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "pro.eventfinda.co.nz",
+      "x": -24.61507797241211,
+      "y": -15.534998893737793,
+      "id": "pro.eventfinda.co.nz",
+      "attributes": {
+        "Modularity Class": "11",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "deaths.press.co.nz",
+      "x": -0.7123268246650696,
+      "y": -1.363017201423645,
+      "id": "deaths.press.co.nz",
+      "attributes": {
+        "Modularity Class": "8",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(111,159,63)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.waikatotimeslodge.co.nz",
+      "x": 14.678831100463867,
+      "y": 15.264039039611816,
+      "id": "www.waikatotimeslodge.co.nz",
+      "attributes": {
+        "Modularity Class": "6",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.airbus.co.nz",
+      "x": -2.501950740814209,
+      "y": 0.6842482686042786,
+      "id": "www.airbus.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.livenation.co.nz",
+      "x": -5.062836647033691,
+      "y": 18.145336151123047,
+      "id": "www.livenation.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "deaths.timaruherald.co.nz",
+      "x": -7.40903902053833,
+      "y": 2.7060976028442383,
+      "id": "deaths.timaruherald.co.nz",
+      "attributes": {
+        "Modularity Class": "8",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(111,159,63)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.marketing.org.nz",
+      "x": -23.319902420043945,
+      "y": -24.247100830078125,
+      "id": "www.marketing.org.nz",
+      "attributes": {
+        "Modularity Class": "1",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.mpa.org.nz",
+      "x": -5.282566070556641,
+      "y": -5.566375732421875,
+      "id": "www.mpa.org.nz",
+      "attributes": {
+        "Modularity Class": "1",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.adventureworld.co.nz",
+      "x": -0.7262938618659973,
+      "y": 25.245182037353516,
+      "id": "www.adventureworld.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.mags4gifts.co.nz",
+      "x": 3.966845750808716,
+      "y": -3.4650182723999023,
+      "id": "www.mags4gifts.co.nz",
+      "attributes": {
+        "Modularity Class": "11",
+        "count": "7.0",
+        "Out-Degree": "4",
+        "Degree": "8",
+        "In-Degree": "4"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 1.1454545259475708
+    },
+    {
+      "label": "www.bhu.org.nz",
+      "x": -7.186186790466309,
+      "y": 20.335390090942383,
+      "id": "www.bhu.org.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "fairfaxmedia.co.nz",
+      "x": 20.889551162719727,
+      "y": 8.78457260131836,
+      "id": "fairfaxmedia.co.nz",
+      "attributes": {
+        "Modularity Class": "11",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.hetoki.co.nz",
+      "x": -21.130470275878906,
+      "y": -6.096104621887207,
+      "id": "www.hetoki.co.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "celebrations.southlandtimes.co.nz",
+      "x": 4.1443352699279785,
+      "y": 12.12758731842041,
+      "id": "celebrations.southlandtimes.co.nz",
+      "attributes": {
+        "Modularity Class": "4",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,111)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.tvguide.co.nz",
+      "x": 1.7587026357650757,
+      "y": 20.38365936279297,
+      "id": "www.tvguide.co.nz",
+      "attributes": {
+        "Modularity Class": "11",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.anza.co.nz",
+      "x": -13.401480674743652,
+      "y": 13.289081573486328,
+      "id": "www.anza.co.nz",
+      "attributes": {
+        "Modularity Class": "1",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "hawaiianairlines.co.nz",
+      "x": 17.446659088134766,
+      "y": -40.90125274658203,
+      "id": "hawaiianairlines.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "blacksheepcreative.co.nz",
+      "x": 1.0058043003082275,
+      "y": -38.26998519897461,
+      "id": "blacksheepcreative.co.nz",
+      "attributes": {
+        "Modularity Class": "3",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,111,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "waikatotimes.co.nz",
+      "x": 30.681182861328125,
+      "y": 7.014715194702148,
+      "id": "waikatotimes.co.nz",
+      "attributes": {
+        "Modularity Class": "6",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.alzheimers.org.nz",
+      "x": -1.4082062244415283,
+      "y": 7.571027755737305,
+      "id": "www.alzheimers.org.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.waikatotimesharcourts.co.nz",
+      "x": -1.3956973552703857,
+      "y": -32.897552490234375,
+      "id": "www.waikatotimesharcourts.co.nz",
+      "attributes": {
+        "Modularity Class": "6",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.neighbourly.co.nz",
+      "x": 14.938105583190918,
+      "y": -26.098045349121094,
+      "id": "www.neighbourly.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "celebrations.timaruherald.co.nz",
+      "x": -16.8673152923584,
+      "y": 10.560185432434082,
+      "id": "celebrations.timaruherald.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "nzcms.fairfaxmedia.co.nz",
+      "x": -6.0141377449035645,
+      "y": 14.2941312789917,
+      "id": "nzcms.fairfaxmedia.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.childrensday.org.nz",
+      "x": -20.234966278076172,
+      "y": -25.16191864013672,
+      "id": "www.childrensday.org.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.digithink.co.nz",
+      "x": -19.161630630493164,
+      "y": 19.948179244995117,
+      "id": "www.digithink.co.nz",
+      "attributes": {
+        "Modularity Class": "11",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.vodafone.co.nz",
+      "x": -8.250473976135254,
+      "y": -1.6616840362548828,
+      "id": "www.vodafone.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.capitale.org.nz",
+      "x": -18.455188751220703,
+      "y": -21.26688003540039,
+      "id": "www.capitale.org.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "stuff.co.nz",
+      "x": 15.94655990600586,
+      "y": 2.685027599334717,
+      "id": "stuff.co.nz",
+      "attributes": {
+        "Modularity Class": "1",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "3",
+        "In-Degree": "3"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.0545454025268555
+    },
+    {
+      "label": "www.cbon.co.nz",
+      "x": 27.196884155273438,
+      "y": 16.363252639770508,
+      "id": "www.cbon.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.nzfarmer.co.nz",
+      "x": -15.692241668701172,
+      "y": 0.4240210950374603,
+      "id": "www.nzfarmer.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "fishpond.co.nz",
+      "x": 21.40797996520996,
+      "y": -9.9000883102417,
+      "id": "fishpond.co.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.lifedirect.co.nz",
+      "x": 16.125478744506836,
+      "y": -31.117847442626953,
+      "id": "www.lifedirect.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "78.0",
+        "Out-Degree": "9",
+        "Degree": "13",
+        "In-Degree": "4"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.2363636493682861
+    },
+    {
+      "label": "www.weatherzone.co.nz",
+      "x": 32.61039733886719,
+      "y": -33.756290435791016,
+      "id": "www.weatherzone.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "engage.ubiquity.co.nz",
+      "x": -16.052501678466797,
+      "y": 8.296097755432129,
+      "id": "engage.ubiquity.co.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "trademe.co.nz",
+      "x": -4.431201457977295,
+      "y": -33.2895622253418,
+      "id": "trademe.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.wwoof.co.nz",
+      "x": 9.85215950012207,
+      "y": 26.21303939819336,
+      "id": "www.wwoof.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.kitchen-maid.blogspot.co.nz",
+      "x": -22.19025230407715,
+      "y": 10.3832368850708,
+      "id": "www.kitchen-maid.blogspot.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "mysubscription.co.nz",
+      "x": -15.405546188354492,
+      "y": -10.982179641723633,
+      "id": "mysubscription.co.nz",
+      "attributes": {
+        "Modularity Class": "1",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.farmers.co.nz",
+      "x": -19.884729385375977,
+      "y": 1.688271164894104,
+      "id": "www.farmers.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.nzhouseandgarden.co.nz",
+      "x": 6.038978099822998,
+      "y": -12.512005805969238,
+      "id": "www.nzhouseandgarden.co.nz",
+      "attributes": {
+        "Modularity Class": "11",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.fishpond.co.nz",
+      "x": -7.71304178237915,
+      "y": 26.244482040405273,
+      "id": "www.fishpond.co.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "67.0",
+        "Out-Degree": "1",
+        "Degree": "3",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0545454025268555
+    },
+    {
+      "label": "www.cuisine.co.nz",
+      "x": 14.698408126831055,
+      "y": -10.100589752197266,
+      "id": "www.cuisine.co.nz",
+      "attributes": {
+        "Modularity Class": "11",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "celebrations.marlexpress.co.nz",
+      "x": -20.030508041381836,
+      "y": 15.52924633026123,
+      "id": "celebrations.marlexpress.co.nz",
+      "attributes": {
+        "Modularity Class": "4",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,111)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.heritagehotels.co.nz",
+      "x": -3.3324315547943115,
+      "y": -3.752005100250244,
+      "id": "www.heritagehotels.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.littlethings.co.nz",
+      "x": -19.124042510986328,
+      "y": -0.6999915838241577,
+      "id": "www.littlethings.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "deaths.taranakidailynews.co.nz",
+      "x": -7.842154502868652,
+      "y": 17.63810157775879,
+      "id": "deaths.taranakidailynews.co.nz",
+      "attributes": {
+        "Modularity Class": "8",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(111,159,63)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "my.lifedirect.co.nz",
+      "x": -4.14683723449707,
+      "y": 2.284829616546631,
+      "id": "my.lifedirect.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "givealittle.co.nz",
+      "x": -12.98289966583252,
+      "y": -1.2353440523147583,
+      "id": "givealittle.co.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "1.0",
+        "Out-Degree": "2",
+        "Degree": "4",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0727273225784302
+    },
+    {
+      "label": "communitynewspapers.co.nz",
+      "x": -16.415781021118164,
+      "y": 13.417272567749023,
+      "id": "communitynewspapers.co.nz",
+      "attributes": {
+        "Modularity Class": "6",
+        "count": "26.0",
+        "Out-Degree": "6",
+        "Degree": "8",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.1454545259475708
+    },
+    {
+      "label": "www.nzbcf.org.nz",
+      "x": 4.556098461151123,
+      "y": 8.925806045532227,
+      "id": "www.nzbcf.org.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "mags4gifts.co.nz",
+      "x": 24.517684936523438,
+      "y": 10.251752853393555,
+      "id": "mags4gifts.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "essentialmums.co.nz",
+      "x": 31.02944564819336,
+      "y": 10.756024360656738,
+      "id": "essentialmums.co.nz",
+      "attributes": {
+        "Modularity Class": "1",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "cuisine.co.nz",
+      "x": 16.78704071044922,
+      "y": 25.967662811279297,
+      "id": "cuisine.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.govt.nz",
+      "x": -18.37786865234375,
+      "y": -5.713188648223877,
+      "id": "www.govt.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.westpac.co.nz",
+      "x": 6.107422351837158,
+      "y": -19.722312927246094,
+      "id": "www.westpac.co.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "94.0",
+        "Out-Degree": "1",
+        "Degree": "3",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0545454025268555
+    },
+    {
+      "label": "www.essentialmums.co.nz",
+      "x": 9.2189302444458,
+      "y": 0.22030359506607056,
+      "id": "www.essentialmums.co.nz",
+      "attributes": {
+        "Modularity Class": "1",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "3",
+        "In-Degree": "3"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.0545454025268555
+    },
+    {
+      "label": "bookings.bookit.co.nz",
+      "x": 6.220305442810059,
+      "y": 12.938105583190918,
+      "id": "bookings.bookit.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "taupohalfmarathon.org.nz",
+      "x": 9.271588325500488,
+      "y": 19.417570114135742,
+      "id": "taupohalfmarathon.org.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.pet.co.nz",
+      "x": -1.2516158819198608,
+      "y": 20.290454864501953,
+      "id": "www.pet.co.nz",
+      "attributes": {
+        "Modularity Class": "0",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "livenews.co.nz",
+      "x": 3.8664984703063965,
+      "y": 23.968034744262695,
+      "id": "livenews.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.stuff.co.nz",
+      "x": -1.6722502708435059,
+      "y": -16.973236083984375,
+      "id": "www.stuff.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "40420.0",
+        "Out-Degree": "150",
+        "Degree": "165",
+        "In-Degree": "15"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 4.0
+    },
+    {
+      "label": "juliebhosale.co.nz",
+      "x": -9.846969604492188,
+      "y": -25.294536590576172,
+      "id": "juliebhosale.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "technology.fairfaxmedia.co.nz",
+      "x": 24.317678451538086,
+      "y": 6.738186359405518,
+      "id": "technology.fairfaxmedia.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "neighboursday.org.nz",
+      "x": -23.72083282470703,
+      "y": -21.78058624267578,
+      "id": "neighboursday.org.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.lifeline.org.nz",
+      "x": -18.39455223083496,
+      "y": 4.461028575897217,
+      "id": "www.lifeline.org.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.fairfaxnie.co.nz",
+      "x": 12.003801345825195,
+      "y": 21.283321380615234,
+      "id": "www.fairfaxnie.co.nz",
+      "attributes": {
+        "Modularity Class": "11",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.getmags.co.nz",
+      "x": -8.758488655090332,
+      "y": 9.653600692749023,
+      "id": "www.getmags.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "deaths.manawatustandard.co.nz",
+      "x": -11.76731014251709,
+      "y": 1.1652119159698486,
+      "id": "deaths.manawatustandard.co.nz",
+      "attributes": {
+        "Modularity Class": "8",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(111,159,63)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.myfoodbag.co.nz",
+      "x": -23.727989196777344,
+      "y": -4.473384380340576,
+      "id": "www.myfoodbag.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.morefm.co.nz",
+      "x": 28.488496780395508,
+      "y": -2.1814205646514893,
+      "id": "www.morefm.co.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "10.0",
+        "Out-Degree": "1",
+        "Degree": "3",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0545454025268555
+    },
+    {
+      "label": "www.internationalartcentre.co.nz",
+      "x": -10.441895484924316,
+      "y": 2.9806716442108154,
+      "id": "www.internationalartcentre.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "pricespy.co.nz",
+      "x": 2.776263475418091,
+      "y": 17.97373390197754,
+      "id": "pricespy.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.nzavocado.co.nz",
+      "x": 3.2747910022735596,
+      "y": 2.6018307209014893,
+      "id": "www.nzavocado.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "jameshardie.co.nz",
+      "x": 25.820756912231445,
+      "y": -6.695675849914551,
+      "id": "jameshardie.co.nz",
+      "attributes": {
+        "Modularity Class": "0",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "nzherald.co.nz",
+      "x": 17.42449188232422,
+      "y": -48.2783203125,
+      "id": "nzherald.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.ccc.govt.nz",
+      "x": -19.4886417388916,
+      "y": 11.438593864440918,
+      "id": "www.ccc.govt.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.presscouncil.org.nz",
+      "x": 1.6362206935882568,
+      "y": 0.6271595358848572,
+      "id": "www.presscouncil.org.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "1.0",
+        "Out-Degree": "1",
+        "Degree": "3",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0545454025268555
+    },
+    {
+      "label": "www.interislander.co.nz",
+      "x": -11.07632064819336,
+      "y": -21.831003189086914,
+      "id": "www.interislander.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.rugbyheaven.co.nz",
+      "x": 38.36167526245117,
+      "y": -8.054208755493164,
+      "id": "www.rugbyheaven.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.locationwaikato.co.nz",
+      "x": -8.895111083984375,
+      "y": 4.539639472961426,
+      "id": "www.locationwaikato.co.nz",
+      "attributes": {
+        "Modularity Class": "6",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "surf.co.nz",
+      "x": -12.277058601379395,
+      "y": -33.89999008178711,
+      "id": "surf.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.depression.org.nz",
+      "x": 25.082515716552734,
+      "y": -20.32327651977539,
+      "id": "www.depression.org.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.sbsstjamesgore.co.nz",
+      "x": 5.768334865570068,
+      "y": 28.041452407836914,
+      "id": "www.sbsstjamesgore.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "dompost.co.nz",
+      "x": 20.817724227905273,
+      "y": -15.730183601379395,
+      "id": "dompost.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "neighbourly.co.nz",
+      "x": 5.242826461791992,
+      "y": 15.386303901672363,
+      "id": "neighbourly.co.nz",
+      "attributes": {
+        "Modularity Class": "0",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "static.stuff.co.nz",
+      "x": 8.959867477416992,
+      "y": 22.00324821472168,
+      "id": "static.stuff.co.nz",
+      "attributes": {
+        "Modularity Class": "1",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "3",
+        "In-Degree": "3"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.0545454025268555
+    },
+    {
+      "label": "deaths.dompost.co.nz",
+      "x": -18.305574417114258,
+      "y": 7.847677230834961,
+      "id": "deaths.dompost.co.nz",
+      "attributes": {
+        "Modularity Class": "8",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(111,159,63)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.adstuff.co.nz",
+      "x": 17.75389862060547,
+      "y": 8.021785736083984,
+      "id": "www.adstuff.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "18.0",
+        "Out-Degree": "7",
+        "Degree": "9",
+        "In-Degree": "2"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.163636326789856
+    },
+    {
+      "label": "www.seafoodnewzealand.org.nz",
+      "x": -16.495943069458008,
+      "y": 5.853855609893799,
+      "id": "www.seafoodnewzealand.org.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.nziff.co.nz",
+      "x": -10.4916353225708,
+      "y": 17.372730255126953,
+      "id": "www.nziff.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "ticketmaster.co.nz",
+      "x": 6.8323163986206055,
+      "y": -37.3928108215332,
+      "id": "ticketmaster.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.waikatotimeslugtons.co.nz",
+      "x": -2.7143242359161377,
+      "y": 17.44333839416504,
+      "id": "www.waikatotimeslugtons.co.nz",
+      "attributes": {
+        "Modularity Class": "6",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.waikatotimesbayleys.co.nz",
+      "x": -11.425268173217773,
+      "y": 5.5894269943237305,
+      "id": "www.waikatotimesbayleys.co.nz",
+      "attributes": {
+        "Modularity Class": "6",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.waikatotimesraywhite.co.nz",
+      "x": 1.3749161958694458,
+      "y": 0.44440197944641113,
+      "id": "www.waikatotimesraywhite.co.nz",
+      "attributes": {
+        "Modularity Class": "6",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.throng.co.nz",
+      "x": -17.62460708618164,
+      "y": -10.122774124145508,
+      "id": "www.throng.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.grabone.co.nz",
+      "x": -10.8170804977417,
+      "y": 14.720187187194824,
+      "id": "www.grabone.co.nz",
+      "attributes": {
+        "Modularity Class": "0",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.eventfinda.co.nz",
+      "x": -13.689217567443848,
+      "y": -15.717687606811523,
+      "id": "www.eventfinda.co.nz",
+      "attributes": {
+        "Modularity Class": "11",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "centralcanterburynews.fairfaxmedia.co.nz",
+      "x": -11.215582847595215,
+      "y": 9.77713680267334,
+      "id": "centralcanterburynews.fairfaxmedia.co.nz",
+      "attributes": {
+        "Modularity Class": "6",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "celebrations.manawatustandard.co.nz",
+      "x": -21.673839569091797,
+      "y": 13.273308753967285,
+      "id": "celebrations.manawatustandard.co.nz",
+      "attributes": {
+        "Modularity Class": "4",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,111)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.dlapiper.co.nz",
+      "x": 12.895493507385254,
+      "y": -18.170427322387695,
+      "id": "www.dlapiper.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "m.travelbug.co.nz",
+      "x": 24.13166046142578,
+      "y": -10.60757827758789,
+      "id": "m.travelbug.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "myob.co.nz",
+      "x": -23.043045043945312,
+      "y": 6.710299491882324,
+      "id": "myob.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.holidayhouses.co.nz",
+      "x": 7.568185329437256,
+      "y": 9.968728065490723,
+      "id": "www.holidayhouses.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "5",
+        "In-Degree": "5"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0909091234207153
+    },
+    {
+      "label": "www.tellingitasitis.co.nz",
+      "x": -5.7353692054748535,
+      "y": 8.206498146057129,
+      "id": "www.tellingitasitis.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "zoomy.co.nz",
+      "x": -4.395377159118652,
+      "y": 6.804591655731201,
+      "id": "zoomy.co.nz",
+      "attributes": {
+        "Modularity Class": "0",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "hetoki.co.nz",
+      "x": 14.935413360595703,
+      "y": -13.579166412353516,
+      "id": "hetoki.co.nz",
+      "attributes": {
+        "Modularity Class": "2",
+        "count": "11.0",
+        "Out-Degree": "0",
+        "Degree": "0",
+        "In-Degree": "0"
+      },
+      "color": "rgb(159,159,63)",
+      "size": 1.0
+    },
+    {
+      "label": "at.govt.nz",
+      "x": 24.141407012939453,
+      "y": -23.273086547851562,
+      "id": "at.govt.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "my.stuff.co.nz",
+      "x": 11.492490768432617,
+      "y": 13.278675079345703,
+      "id": "my.stuff.co.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.motorweb.co.nz",
+      "x": -17.77822494506836,
+      "y": -29.991207122802734,
+      "id": "www.motorweb.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "1.0",
+        "Out-Degree": "6",
+        "Degree": "9",
+        "In-Degree": "3"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.163636326789856
+    },
+    {
+      "label": "www.mediaworks.co.nz",
+      "x": -28.712106704711914,
+      "y": -1.454888105392456,
+      "id": "www.mediaworks.co.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.azdirect.co.nz",
+      "x": 10.512529373168945,
+      "y": 10.089080810546875,
+      "id": "www.azdirect.co.nz",
+      "attributes": {
+        "Modularity Class": "11",
+        "count": "1.0",
+        "Out-Degree": "2",
+        "Degree": "4",
+        "In-Degree": "2"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 1.0727273225784302
+    },
+    {
+      "label": "www.airshare.co.nz",
+      "x": 35.99372482299805,
+      "y": 1.4449294805526733,
+      "id": "www.airshare.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.fueldesign.co.nz",
+      "x": 29.985973358154297,
+      "y": 22.161235809326172,
+      "id": "www.fueldesign.co.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.caanz.co.nz",
+      "x": -14.119269371032715,
+      "y": 6.511180400848389,
+      "id": "www.caanz.co.nz",
+      "attributes": {
+        "Modularity Class": "1",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.interactives.co.nz",
+      "x": -12.050487518310547,
+      "y": -23.997194290161133,
+      "id": "www.interactives.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "1",
+        "Degree": "2",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "celebrations.waikatotimes.co.nz",
+      "x": -22.139137268066406,
+      "y": -8.717567443847656,
+      "id": "celebrations.waikatotimes.co.nz",
+      "attributes": {
+        "Modularity Class": "4",
+        "count": "6.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,111)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.roomie.co.nz",
+      "x": -19.103185653686523,
+      "y": -8.193446159362793,
+      "id": "www.roomie.co.nz",
+      "attributes": {
+        "Modularity Class": "7",
+        "count": "13.0",
+        "Out-Degree": "0",
+        "Degree": "0",
+        "In-Degree": "0"
+      },
+      "color": "rgb(159,111,63)",
+      "size": 1.0
+    },
+    {
+      "label": "blog.travelbug.co.nz",
+      "x": -4.381549835205078,
+      "y": 14.980278968811035,
+      "id": "blog.travelbug.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "116.0",
+        "Out-Degree": "7",
+        "Degree": "8",
+        "In-Degree": "1"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.1454545259475708
+    },
+    {
+      "label": "roomie.co.nz",
+      "x": 27.76327896118164,
+      "y": 12.982068061828613,
+      "id": "roomie.co.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.nzta.govt.nz",
+      "x": 0.9643388390541077,
+      "y": 16.073434829711914,
+      "id": "www.nzta.govt.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "celebrations.stuff.co.nz",
+      "x": 6.657774925231934,
+      "y": 6.463442802429199,
+      "id": "celebrations.stuff.co.nz",
+      "attributes": {
+        "Modularity Class": "4",
+        "count": "4.0",
+        "Out-Degree": "8",
+        "Degree": "10",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,111)",
+      "size": 1.1818182468414307
+    },
+    {
+      "label": "careers.fairfaxmedia.co.nz",
+      "x": 1.3121980428695679,
+      "y": 9.223444938659668,
+      "id": "careers.fairfaxmedia.co.nz",
+      "attributes": {
+        "Modularity Class": "1",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.extramilerunners.co.nz",
+      "x": -5.397775173187256,
+      "y": 22.775676727294922,
+      "id": "www.extramilerunners.co.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "deaths.southlandtimes.co.nz",
+      "x": -10.93053913116455,
+      "y": -10.740352630615234,
+      "id": "deaths.southlandtimes.co.nz",
+      "attributes": {
+        "Modularity Class": "8",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(111,159,63)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "file.stuff.co.nz",
+      "x": -13.008037567138672,
+      "y": -6.719302654266357,
+      "id": "file.stuff.co.nz",
+      "attributes": {
+        "Modularity Class": "1",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "dompost.mypaper.co.nz",
+      "x": 21.16790199279785,
+      "y": -38.5538444519043,
+      "id": "dompost.mypaper.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.foundbear.co.nz",
+      "x": -12.996248245239258,
+      "y": 3.565910577774048,
+      "id": "www.foundbear.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.chiefandco.co.nz",
+      "x": -14.055212020874023,
+      "y": 11.758377075195312,
+      "id": "www.chiefandco.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.treatme.co.nz",
+      "x": 30.545082092285156,
+      "y": 0.8639733791351318,
+      "id": "www.treatme.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.speedshow.co.nz",
+      "x": 11.462419509887695,
+      "y": -53.63978958129883,
+      "id": "www.speedshow.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.fairfaxmedia.co.nz",
+      "x": 2.4195215702056885,
+      "y": -31.16257095336914,
+      "id": "www.fairfaxmedia.co.nz",
+      "attributes": {
+        "Modularity Class": "1",
+        "count": "426.0",
+        "Out-Degree": "15",
+        "Degree": "20",
+        "In-Degree": "5"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.3636363744735718
+    },
+    {
+      "label": "fohfum.co.nz",
+      "x": -10.157217025756836,
+      "y": -13.416083335876465,
+      "id": "fohfum.co.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "becomeastar.co.nz",
+      "x": -26.386045455932617,
+      "y": -11.804064750671387,
+      "id": "becomeastar.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.wrcndigital.co.nz",
+      "x": -13.303502082824707,
+      "y": -4.599455833435059,
+      "id": "www.wrcndigital.co.nz",
+      "attributes": {
+        "Modularity Class": "6",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "deaths.stuff.co.nz",
+      "x": 16.247312545776367,
+      "y": 0.21549266576766968,
+      "id": "deaths.stuff.co.nz",
+      "attributes": {
+        "Modularity Class": "8",
+        "count": "7.0",
+        "Out-Degree": "7",
+        "Degree": "9",
+        "In-Degree": "2"
+      },
+      "color": "rgb(111,159,63)",
+      "size": 1.163636326789856
+    },
+    {
+      "label": "www.admiremagazine.co.nz",
+      "x": -22.002737045288086,
+      "y": -0.3092591464519501,
+      "id": "www.admiremagazine.co.nz",
+      "attributes": {
+        "Modularity Class": "6",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.my.stuff.co.nz",
+      "x": 35.29921340942383,
+      "y": -11.678794860839844,
+      "id": "www.my.stuff.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "privacy.org.nz",
+      "x": 20.914146423339844,
+      "y": -7.33246374130249,
+      "id": "privacy.org.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "business.bookit.co.nz",
+      "x": 1.2551952600479126,
+      "y": 13.387904167175293,
+      "id": "business.bookit.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "sparkmypotential.co.nz",
+      "x": -6.71099328994751,
+      "y": 11.162848472595215,
+      "id": "sparkmypotential.co.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.airtahitinui.co.nz",
+      "x": -15.979979515075684,
+      "y": 2.9213197231292725,
+      "id": "www.airtahitinui.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.fairfaxnz.co.nz",
+      "x": -7.254767417907715,
+      "y": 7.948323726654053,
+      "id": "www.fairfaxnz.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "deaths.waikatotimes.co.nz",
+      "x": 20.37744903564453,
+      "y": 31.11140251159668,
+      "id": "deaths.waikatotimes.co.nz",
+      "attributes": {
+        "Modularity Class": "8",
+        "count": "9.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(111,159,63)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.robinmorrison.co.nz",
+      "x": -9.890844345092773,
+      "y": 12.170044898986816,
+      "id": "www.robinmorrison.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.sitehost.co.nz",
+      "x": 17.562339782714844,
+      "y": -15.045086860656738,
+      "id": "www.sitehost.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "cdn.auckland.ac.nz",
+      "x": 29.888011932373047,
+      "y": -12.17068862915039,
+      "id": "cdn.auckland.ac.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.motortimes.co.nz",
+      "x": 26.761049270629883,
+      "y": 1.163785696029663,
+      "id": "www.motortimes.co.nz",
+      "attributes": {
+        "Modularity Class": "6",
+        "count": "1.0",
+        "Out-Degree": "3",
+        "Degree": "4",
+        "In-Degree": "1"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0727273225784302
+    },
+    {
+      "label": "myfoodbag.co.nz",
+      "x": -20.6265811920166,
+      "y": -14.374150276184082,
+      "id": "myfoodbag.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.archivestuff.co.nz",
+      "x": -3.457571268081665,
+      "y": 4.3711161613464355,
+      "id": "www.archivestuff.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "deaths.nelsonmail.co.nz",
+      "x": 5.2045369148254395,
+      "y": 18.65013313293457,
+      "id": "deaths.nelsonmail.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.asa.co.nz",
+      "x": 31.62235450744629,
+      "y": -21.18126678466797,
+      "id": "www.asa.co.nz",
+      "attributes": {
+        "Modularity Class": "1",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "albatross.org.nz",
+      "x": -4.731541156768799,
+      "y": -0.36822810769081116,
+      "id": "albatross.org.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.shopify.co.nz",
+      "x": -2.8691160678863525,
+      "y": 22.185266494750977,
+      "id": "www.shopify.co.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.iab.org.nz",
+      "x": 14.853188514709473,
+      "y": -46.407161712646484,
+      "id": "www.iab.org.nz",
+      "attributes": {
+        "Modularity Class": "1",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.nzfishingnews.co.nz",
+      "x": 13.6202392578125,
+      "y": 8.862248420715332,
+      "id": "www.nzfishingnews.co.nz",
+      "attributes": {
+        "Modularity Class": "11",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "www.preview.stuff.co.nz",
+      "x": -20.044315338134766,
+      "y": 7.7284135818481445,
+      "id": "www.preview.stuff.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.findsomeone.co.nz",
+      "x": 20.137451171875,
+      "y": 16.85453224182129,
+      "id": "www.findsomeone.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "7",
+        "In-Degree": "7"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.1272727251052856
+    },
+    {
+      "label": "www.nzgardener.co.nz",
+      "x": 19.731201171875,
+      "y": -5.991692066192627,
+      "id": "www.nzgardener.co.nz",
+      "attributes": {
+        "Modularity Class": "11",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "2",
+        "In-Degree": "2"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 1.0363636016845703
+    },
+    {
+      "label": "herbalhealthwaiheke.co.nz",
+      "x": -18.976240158081055,
+      "y": -12.172082901000977,
+      "id": "herbalhealthwaiheke.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "fairfaxnie.co.nz",
+      "x": -3.949878215789795,
+      "y": -40.49987030029297,
+      "id": "fairfaxnie.co.nz",
+      "attributes": {
+        "Modularity Class": "3",
+        "count": "3.0",
+        "Out-Degree": "2",
+        "Degree": "3",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,111,159)",
+      "size": 1.0545454025268555
+    },
+    {
+      "label": "burrowandbe.co.nz",
+      "x": 22.448793411254883,
+      "y": -1.9134470224380493,
+      "id": "burrowandbe.co.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "2.0",
+        "Out-Degree": "1",
+        "Degree": "3",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0545454025268555
+    },
+    {
+      "label": "www.meccacosmetica.co.nz",
+      "x": 15.958767890930176,
+      "y": -17.65108299255371,
+      "id": "www.meccacosmetica.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.getthelingo.co.nz",
+      "x": 19.553855895996094,
+      "y": -12.109436988830566,
+      "id": "www.getthelingo.co.nz",
+      "attributes": {
+        "Modularity Class": "0",
+        "count": "8.0",
+        "Out-Degree": "6",
+        "Degree": "8",
+        "In-Degree": "2"
+      },
+      "color": "rgb(63,63,159)",
+      "size": 1.1454545259475708
+    },
+    {
+      "label": "advertise-on-stuff.co.nz",
+      "x": 1.23048996925354,
+      "y": 22.66416358947754,
+      "id": "advertise-on-stuff.co.nz",
+      "attributes": {
+        "Modularity Class": "1",
+        "count": "1.0",
+        "Out-Degree": "4",
+        "Degree": "4",
+        "In-Degree": "0"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.0727273225784302
+    },
+    {
+      "label": "www.hotelwellington.co.nz",
+      "x": 13.95089054107666,
+      "y": -8.20486831665039,
+      "id": "www.hotelwellington.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "quantum.otago.ac.nz",
+      "x": 32.85585403442383,
+      "y": 21.92311668395996,
+      "id": "quantum.otago.ac.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.franciauys.co.nz",
+      "x": 16.819229125976562,
+      "y": -22.546653747558594,
+      "id": "www.franciauys.co.nz",
+      "attributes": {
+        "Modularity Class": "0",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "events.stuff.co.nz",
+      "x": -11.55941104888916,
+      "y": -28.80147933959961,
+      "id": "events.stuff.co.nz",
+      "attributes": {
+        "Modularity Class": "11",
+        "count": "3.0",
+        "Out-Degree": "22",
+        "Degree": "23",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,63)",
+      "size": 1.4181818962097168
+    },
+    {
+      "label": "www.flightcentre.co.nz",
+      "x": -26.189817428588867,
+      "y": 4.239564895629883,
+      "id": "www.flightcentre.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.abc.org.nz",
+      "x": 10.806190490722656,
+      "y": 16.829429626464844,
+      "id": "www.abc.org.nz",
+      "attributes": {
+        "Modularity Class": "1",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "wrcndigital.co.nz",
+      "x": 9.1524019241333,
+      "y": -17.11290740966797,
+      "id": "wrcndigital.co.nz",
+      "attributes": {
+        "Modularity Class": "6",
+        "count": "1.0",
+        "Out-Degree": "6",
+        "Degree": "8",
+        "In-Degree": "2"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.1454545259475708
+    },
+    {
+      "label": "e-edition.cambridgeedition.co.nz",
+      "x": -3.719245433807373,
+      "y": 19.86953353881836,
+      "id": "e-edition.cambridgeedition.co.nz",
+      "attributes": {
+        "Modularity Class": "6",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(159,63,63)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "i.stuff.co.nz",
+      "x": -2.0675547122955322,
+      "y": 12.128183364868164,
+      "id": "i.stuff.co.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "270.0",
+        "Out-Degree": "16",
+        "Degree": "19",
+        "In-Degree": "3"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.3454545736312866
+    },
+    {
+      "label": "www.offthetracks.co.nz",
+      "x": -0.44290822744369507,
+      "y": 1.8381822109222412,
+      "id": "www.offthetracks.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "sparkfoundation.org.nz",
+      "x": -15.511730194091797,
+      "y": -4.57747220993042,
+      "id": "sparkfoundation.org.nz",
+      "attributes": {
+        "Modularity Class": "9",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(159,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.oldfriends.co.nz",
+      "x": -10.444189071655273,
+      "y": -1.496877670288086,
+      "id": "www.oldfriends.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.airnewzealand.co.nz",
+      "x": -1.8820022344589233,
+      "y": -26.381444931030273,
+      "id": "www.airnewzealand.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "bookings.dev.bookit.co.nz",
+      "x": -9.16413402557373,
+      "y": -3.413459539413452,
+      "id": "bookings.dev.bookit.co.nz",
+      "attributes": {
+        "Modularity Class": "10",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(111,63,159)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.glaciersouthernlakes.co.nz",
+      "x": 32.894100189208984,
+      "y": -17.105594635009766,
+      "id": "www.glaciersouthernlakes.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    },
+    {
+      "label": "www.skycityauckland.co.nz",
+      "x": -22.45710563659668,
+      "y": 2.7217965126037598,
+      "id": "www.skycityauckland.co.nz",
+      "attributes": {
+        "Modularity Class": "5",
+        "count": "1.0",
+        "Out-Degree": "0",
+        "Degree": "1",
+        "In-Degree": "1"
+      },
+      "color": "rgb(63,159,111)",
+      "size": 1.0181818008422852
+    }
+  ]
+}
